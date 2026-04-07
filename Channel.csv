@@ -1,0 +1,8 @@
+ChannelCode,SuperChannelDesc,ChannelType,ChannelStatus,VIP_Eligible
+Online,E-Commerce,Digital,Active,Y
+In-Store,Retail,Physical,Active,Y
+Wholesale,B2B,Partner,Active,N
+Distributor,B2B,Partner,Active,N
+Mobile App,E-Commerce,Digital,Active,Y
+Marketplace,E-Commerce,Digital,Inactive,N
+Pop-Up,Retail,Physical,Active,N

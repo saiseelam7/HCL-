@@ -1,0 +1,8 @@
+StoreDivisionNumber,DivisionName,DivisionHQCity,DivisionHQState,TerritoryName,ZoneCode,DivisionStatus
+DIV001,Northeast Division,New York,NY,Northeast,NE-ZONE-01,Active
+DIV002,Southeast Division,Atlanta,GA,Southeast,SE-ZONE-02,Active
+DIV003,Midwest Division,Chicago,IL,Midwest,MW-ZONE-03,Active
+DIV004,Southwest Division,Dallas,TX,Southwest,SW-ZONE-04,Active
+DIV005,West Division,Los Angeles,CA,West,WE-ZONE-05,Active
+DIV006,Mid-Atlantic Div,Philadelphia,PA,Mid-Atlantic,MA-ZONE-06,Inactive
+DIV007,Pacific NW Division,Seattle,WA,Pacific Northwest,PW-ZONE-07,Active

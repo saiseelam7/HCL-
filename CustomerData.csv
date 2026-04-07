@@ -1,0 +1,1001 @@
+CustomerID,FirstName,LastName,Email,Phone,City,State,ZipCode,PurchaseAmount,TransactionDate,ChannelCode,TerritoryName,StoreDivisionNumber,SuperChannelDesc
+1654,,Johnson,robert.johnson@yahoo.com,342-854-2679,Dallas,TX,75201,679.93,2025-01-17,Mobile App,Northeast,DIV005,Direct
+1223,Jennifer,Green,jgreen@gmail.com,403-833-9928,Nashville,TN,37201,425.32,2025-03-23,Distributor,West,DIV003,Retail
+1348,Charles,Moore,charles.moore@hotmail.com,294-489-2584,San Antonio,TX,78201,365.39,2025-08-24,Wholesale,West,DIV003,Retail
+1996,Lisa,Garcia,lgarcia@hotmail.com,833-982-6925,Seattle,WA,98101,581.58,2025-02-10,Online,Northeast,DIV002,B2B
+1887,Patricia,Hall,phall@outlook.com,000-000-0000,Dallas,TX,75201,361.72,2025-11-22,Wholesale,Mid-Atlantic,DIV001,Partner
+1746,Richard,Taylor,richardtaylor@outlook.com,855-804-4598,CHARLOTTE,NC,28201,687.77,2025-07-25,Online,Southeast,DIV001,B2B
+1216,Donna,Clark,donnaclark@aol.com,605-758-8517,San Antonio,TX,78201,151.44,2025-05-15,In-Store,Southeast,DIV005,Partner
+1438,,Allen,steven.allen@yahoo.com,721-605-2489,Jacksonville,FL,32099,758.22,2025-11-02,Online,Southeast,DIV002,Direct
+1390,Carol,Nguyen,cnguyen@hotmail.com,211-796-2876,San Francisco,ca,94101,684.89,2025-02-27,Mobile App,Pacific Northwest,DIV003,B2B
+1161,Mark,Smith,mark.smith@icloud.com,719-208-5889,Dallas,TX,75201,843.25,2025-07-11,Mobile App,West,DIV002,E-Commerce
+1552,Jason,Adams,jasonadams@icloud.com,700-119-2832,New York,NY,10001,929.81,2025-10-18,Wholesale,Southeast,DIV001,E-Commerce
+1087,Laura,Flores,laura.flores@icloud.com,331-775-8787,Chicago,IL,60601,947.38,2025-08-05,In-Store,Midwest,DIV005,Partner
+1951,Sandra,Thomas,sthomas@outlook.com,865-482-8177,San Jose,CA,95101,900.62,2025-02-02,Distributor,Northeast,DIV002,E-Commerce
+1602,Kenneth,White,kenneth.white@yahoo.com,272-824-1964,Denver,CO,80201,0,2025-09-21,Online,Pacific Northwest,DIV003,Retail
+1685,Donald,,djackson@yahoo.com,784-690-8744,Seattle,WA,98101,250.57,2025-02-18,Distributor,Pacific Northwest,DIV004,E-Commerce
+1441,Dorothy,Scott,dscott@outlook.com,255-789-2612,Columbus,OH,,70.01,2025-04-09,Wholesale,Pacific Northwest,DIV001,E-Commerce
+1459,Linda,Scott,lindascott@hotmail.com,455-995-2235,Philadelphia,PA,19101,448.7,2025-01-08,Mobile App,Northeast,DIV001,Partner
+1948,Sarah,Harris,sarahharris@outlook.com,692-318-7570,Philadelphia,PA,19101,903.42,2025-05-16,In-Store,Southwest,DIV001,Direct
+1803,,Young,myoung@aol.com,769-777-8973,Columbus,OH,43085,163.25,2025-10-05,Wholesale,Southeast,DIV001,Partner
+1321,,Brown,bbrown@outlook.com,743-261-1931,Denver,CO,80201,961.17,2025-11-01,Online,Pacific Northwest,DIV002,Retail
+1882,Richard,Allen,richard.allen@icloud.com,792-708-1651,Houston,TX,77001,623.19,2025-09-25,Distributor,Mid-Atlantic,DIV005,Partner
+1267,David,Clark,davidclark@hotmail.com,334-787-5915,San Diego,CA,92101,462.65,2025-10-16,Online,Northeast,DIV004,Partner
+1075,Sandra,Jackson,sandra.jackson@hotmail.com,557-170-5002,San Francisco,CA,94101,375.83,2025-11-10,In-Store,Southwest,DIV005,B2B
+1826,Brian,Adams,BrianAdamsaol.com,506-779-2697,New York,NY,10001,939.54,2025-10-11,In-Store,Midwest,DIV001,Retail
+1288,Carol,Jackson,cjackson@yahoo.com,849-973-5325,Austin,TX,73301,510.35,2025-11-21,Wholesale,Pacific Northwest,DIV001,Retail
+1283,Alice,Smith,asmith@yahoo.com,468-265-8239,Austin,TX,73301,556.16,2025-02-08,Distributor,West,DIV001,Retail
+1707,Michael,Nelson,mnelson@hotmail.com,765-251-8041,Los Angeles,CA,90001,136.17,2025-04-18,Wholesale,Midwest,DIV001,B2B
+1682,Patricia,Lee,plee@outlook.com,967-258-4878,Seattle,WA,98101,865.96,2025-06-20,In-Store,Southwest,DIV001,E-Commerce
+1421,Sharon,Harris,sharris@yahoo.com,310-491-1634,Dallas,TX,75201,860.01,2025-06-06,In-Store,Southeast,DIV004,B2B
+1892,Jennifer,White,jennifer.white@aol.com,608-436-5564,New York,NY,10001,865.71,2025-12-14,Wholesale,Midwest,DIV005,Direct
+1549,Thomas,Johnson,thomas.johnson@hotmail.com,794-371-1626,Houston,TX,77001,117.32,2025-11-07,Distributor,Midwest,DIV003,Direct
+1118,,Mitchell,lisa.mitchell@hotmail.com,925-546-1027,San Antonio,TX,78201,524.72,2025-08-09,Mobile App,Mid-Atlantic,DIV002,B2B
+1680,Thomas,Turner,ThomasTurneraol.com,937-407-9308,Austin,TX,73301,316.19,2025-10-11,Distributor,Midwest,DIV004,B2B
+1430,Sharon,Hall,shall@icloud.com,508-515-9977,Philadelphia,PA,19101,835.39,2025-10-24,Wholesale,Midwest,DIV002,Direct
+1329,Mark,Torres,mark.torres@aol.com,723-584-3780,Charlotte,NC,28201,662.26,2025-02-17,Wholesale,West,DIV005,B2B
+1769,Richard,Robinson,richard.robinson@yahoo.com,225-147-5011,San Diego,CA,92101,984.1,2025-08-01,Mobile App,Pacific Northwest,DIV001,Direct
+1589,Elizabeth,Hall,elizabeth.hall@outlook.com,351-771-1090,Indianapolis,IN,46201,893.73,2025-04-01,Online,Pacific Northwest,DIV004,E-Commerce
+1712,George,Nguyen,george.nguyen@icloud.com,324-567-3184,Los Angeles,CA,90001,803.4,2025-08-15,Mobile App,West,DIV005,B2B
+1736,Helen,Scott,helen.scott@outlook.com,961-982-8777,Seattle,WA,98101,455.57,2025-09-06,In-Store,Pacific Northwest,DIV003,Partner
+1281,Karen,Jones,karenjones@yahoo.com,543-427-9849,San Jose,CA,,89.77,2025-12-28,In-Store,Southeast,DIV004,E-Commerce
+1424,Nancy,Lewis,nancylewis@outlook.com,263-311-7883,Seattle,WA,98101,395.58,2025-07-14,Mobile App,Mid-Atlantic,DIV001,Partner
+1965,Dorothy,Robinson,drobinson@outlook.com,965-852-9947,Fort Worth,TX,76101,801.87,2025-08-12,In-Store,Southwest,DIV002,B2B
+1398,Thomas,Allen,thomas.allen@outlook.com,837-646-1441,Philadelphia,PA,19101,907.86,2025-11-26,Mobile App,West,DIV001,Retail
+1887,Mark,Anderson,markanderson@hotmail.com,535-316-8449,Los Angeles,CA,90001,333.58,2025-02-11,Distributor,Midwest,DIV004,B2B
+1767,Sandra,Brown,sbrown@yahoo.com,270-899-1659,Jacksonville,FL,32099,0,2025-03-20,In-Store,Southeast,DIV001,Partner
+1484,Sharon,,sharondavis@yahoo.com,916-362-7043,Denver,CO,80201,176.11,2025-06-09,Mobile App,Mid-Atlantic,DIV001,E-Commerce
+1026,Joseph,Mitchell,jmitchell@outlook.com,403-177-4978,Fort Worth,TX,76101,110.88,2025-10-17,Wholesale,Pacific Northwest,DIV005,Retail
+1355,Sandra,Scott,sscott@gmail.com,863-449-1207,Jacksonville,FL,32099,851.08,2025-11-22,Distributor,Northeast,DIV004,B2B
+1470,Anthony,Moore,amoore@yahoo.com,734-766-5425,Columbus,OH,43085,619.75,2025-08-12,Mobile App,Pacific Northwest,DIV004,Direct
+1606,Charles,Clark,charlesclark@gmail.com,000-000-0000,San Diego,CA,92101,574.15,2025-06-16,Distributor,Midwest,DIV001,Direct
+1217,Dorothy,Martin,dmartin@hotmail.com,918-382-1166,Austin,TX,73301,521.46,2025-09-08,In-Store,Northeast,DIV002,Direct
+1246,Michelle,Hill,michelle.hill@outlook.com,295-401-4630,Indianapolis,IN,46201,410.36,2025-08-31,In-Store,Midwest,DIV005,B2B
+1352,Paul,Baker,pbaker@hotmail.com,664-377-6023,Austin,TX,73301,258.89,2025-03-03,Online,Mid-Atlantic,DIV002,B2B
+1973,Sarah,Anderson,sanderson@yahoo.com,695-383-9595,San Antonio,TX,78201,600.82,2025-04-27,Online,Pacific Northwest,DIV002,B2B
+1309,John,Nelson,john.nelson@hotmail.com,255-666-5786,Phoenix,AZ,85001,700.44,2025-01-07,In-Store,Mid-Atlantic,DIV004,Retail
+1480,Betty,Torres,betty.torres@yahoo.com,458-982-8827,Austin,TX,73301,122.95,2025-10-23,Online,Southwest,DIV004,Retail
+1054,Michael,Moore,michael.moore@hotmail.com,454-221-7818,Denver,CO,80201,610.25,2025-08-19,Mobile App,Southeast,DIV005,Direct
+1304,Steven,,sscott@icloud.com,261-724-2625,San Jose,CA,95101,948.11,2025-12-05,In-Store,Mid-Atlantic,DIV002,B2B
+1245,William,Baker,william.baker@yahoo.com,618-561-8699,Chicago,IL,60601,298.35,2025-02-06,In-Store,Midwest,DIV003,Direct
+1946,Maria,Carter,maria.carter@outlook.com,757-330-3441,San Antonio,TX,78201,909.33,2025-06-07,In-Store,Northeast,DIV001,E-Commerce
+1844,Donna,Young,donnayoung@gmail.com,905-411-7594,Charlotte,NC,28201,943.25,2025-02-11,Mobile App,West,DIV004,Direct
+1910,Paul,Clark,paul.clark@hotmail.com,293-334-1339,Nashville,TN,37201,999.58,2025-08-29,Wholesale,West,DIV001,E-Commerce
+1452,Charles,Anderson,canderson@outlook.com,703-193-8700,Denver,CO,80201,354.48,2025-06-18,Wholesale,Midwest,DIV001,E-Commerce
+1507,Susan,Allen,susanallen@gmail.com,290-422-5135,Seattle,WA,98101,330.04,2025-12-03,Distributor,Pacific Northwest,DIV005,Retail
+1473,Nancy,Brown,nancybrown@icloud.com,837-874-9167,San Antonio,TX,78201,629.15,2025-03-09,Online,Southeast,DIV003,Partner
+1448,Michelle,,mflores@gmail.com,823-918-4920,Houston,TX,77001,712.68,2025-07-28,Wholesale,West,DIV001,Partner
+1861,Robert,Nguyen,robert.nguyen@aol.com,710-833-5781,Houston,TX,77001,513.78,2025-05-05,Wholesale,Southwest,DIV004,Direct
+1148,lisa,Thomas,lthomas@icloud.com,339-984-2143,Nashville,TN,37201,283.48,2025-01-02,Distributor,Midwest,DIV005,B2B
+1305,Steven,Carter,stevencarter@yahoo.com,751-595-6654,Indianapolis,IN,46201,339.12,2025-04-07,Mobile App,Southwest,DIV004,B2B
+1244,Donna,Hall,DonnaHalloutlook.com,525-862-8749,San Diego,CA,92101,708.18,2025-01-19,Distributor,Southwest,DIV002,Direct
+1988,Steven,Lewis,steven.lewis@outlook.com,738-567-1251,Houston,TX,77001,725.22,2025-08-29,Distributor,Pacific Northwest,DIV002,Retail
+1271,Thomas,Turner,thomas.turner@aol.com,536-972-9742,Fort Worth,TX,76101,386.21,2025-01-19,Wholesale,Mid-Atlantic,DIV004,Partner
+1240,Ruth,Young,ruth.young@aol.com,644-200-2646,San Diego,ca,92101,449.24,2025-01-29,Wholesale,Northeast,DIV001,B2B
+1383,Paul,Moore,paulmoore@icloud.com,779-798-3950,San Diego,CA,92101,0,2025-12-16,Online,West,DIV004,Partner
+1934,Steven,Moore,smoore@outlook.com,460-570-5183,San Diego,CA,92101,670.17,2025-02-07,Distributor,Midwest,DIV005,E-Commerce
+1353,Steven,Robinson,stevenrobinson@aol.com,667-965-5949,Columbus,OH,43085,207.22,2025-05-02,Distributor,Pacific Northwest,DIV004,Retail
+1367,Donna,Young,dyoung@gmail.com,605-381-1132,San Jose,CA,95101,570.27,2025-04-28,Online,West,DIV004,B2B
+1360,Jennifer,Thomas,jthomas@hotmail.com,973-838-3240,Nashville,TN,37201,631.97,2025-10-24,Online,Midwest,DIV004,Retail
+1134,James,Young,jamesyoung@aol.com,379-305-3165,AUSTIN,TX,73301,788.65,2025-03-26,Wholesale,West,DIV005,B2B
+1844,Betty,Young,bettyyoung@gmail.com,277-244-4696,Austin,TX,73301,861.54,2025-02-16,Distributor,Pacific Northwest,DIV005,B2B
+1014,Maria,Nelson,marianelson@outlook.com,888-866-5295,Houston,TX,77001,588.71,2025-01-13,Wholesale,Northeast,DIV002,Direct
+1430,Sharon,Hall,shall@icloud.com,508-515-9977,Philadelphia,PA,19101,835.39,2025-10-24,Wholesale,Midwest,DIV002,Direct
+1311,Donald,Davis,ddavis@yahoo.com,338-497-8432,Houston,TX,77001,377.3,2025-08-01,Mobile App,Southwest,DIV005,E-Commerce
+1853,Donald,Turner,donald.turner@hotmail.com,906-479-4559,Columbus,OH,43085,448.95,2025-12-18,In-Store,Pacific Northwest,DIV003,Retail
+1923,Brian,Lee,brianlee@outlook.com,394-225-8450,Los Angeles,CA,90001,100.76,2025-01-26,In-Store,Mid-Atlantic,DIV005,Retail
+1249,linda,Mitchell,lmitchell@gmail.com,412-700-4538,San Antonio,TX,78201,814.92,2025-01-02,In-Store,Midwest,DIV002,Partner
+1352,Paul,Baker,pbaker@hotmail.com,664-377-6023,Austin,TX,73301,258.89,2025-03-03,Online,Mid-Atlantic,DIV002,B2B
+1053,Linda,Wright,lwright@gmail.com,265-587-8344,San Francisco,CA,94101,0,2025-09-15,Mobile App,West,DIV001,Direct
+1629,Alice,Adams,aadams@outlook.com,231-162-8847,San Jose,CA,95101,848.83,2025-12-31,Distributor,Mid-Atlantic,DIV001,Direct
+1075,James,Clark,james.clark@yahoo.com,329-381-9984,Nashville,TN,37201,715.03,2025-08-21,Distributor,West,DIV005,B2B
+1440,Patricia,Davis,patricia.davis@aol.com,640-562-4743,Seattle,WA,98101,419.68,2025-06-10,Distributor,Southwest,DIV004,Retail
+1681,,Walker,mariawalker@aol.com,268-193-2398,Phoenix,AZ,85001,102.3,2025-10-12,Online,Mid-Atlantic,DIV003,E-Commerce
+1979,Kenneth,,kenneth.baker@aol.com,620-462-7929,Austin,TX,73301,869.41,2025-06-30,Online,Midwest,DIV005,B2B
+1519,David,Moore,david.moore@yahoo.com,558-965-7022,Indianapolis,IN,46201,123.74,2025-10-15,Wholesale,West,DIV002,Direct
+1973,Sarah,Anderson,sanderson@yahoo.com,695-383-9595,San Antonio,TX,78201,600.82,2025-04-27,Online,Pacific Northwest,DIV002,B2B
+1579,Sharon,Allen,SharonAllenyahoo.com,848-131-2503,Chicago,IL,60601,748.65,2025-06-24,In-Store,Southwest,DIV004,Direct
+1319,Laura,Clark,laura.clark@icloud.com,253-259-3579,Denver,CO,80201,756.89,2025-08-15,Online,Mid-Atlantic,DIV001,B2B
+1497,Carol,Torres,carol.torres@hotmail.com,973-624-2864,Columbus,OH,43085,351.72,2025-09-27,Online,Midwest,DIV005,Direct
+1046,Jennifer,Allen,jennifer.allen@gmail.com,409-408-4460,Nashville,TN,37201,769.68,2025-01-04,Wholesale,Midwest,DIV003,Retail
+1440,William,Wilson,wwilson@icloud.com,435-612-6802,Fort Worth,TX,76101,81.35,2025-02-09,Online,Southwest,DIV001,Direct
+1589,Paul,Mitchell,pmitchell@aol.com,627-396-2887,Fort Worth,TX,76101,410.98,2025-12-20,Wholesale,Southeast,DIV005,Direct
+1090,Paul,Miller,pmiller@outlook.com,610-636-2288,San Diego,CA,92101,401.81,2025-06-20,Wholesale,Mid-Atlantic,DIV003,E-Commerce
+1078,Helen,Davis,helen.davis@icloud.com,994-457-6752,San Francisco,CA,,730.11,2025-05-12,In-Store,Southeast,DIV001,E-Commerce
+1616,Michael,Jones,michaeljones@aol.com,675-872-8354,Philadelphia,PA,19101,684.32,2025-11-18,Mobile App,Mid-Atlantic,DIV005,B2B
+1450,,Hill,maryhill@aol.com,481-705-1920,Charlotte,NC,28201,358.42,2025-01-20,Online,Midwest,DIV004,Direct
+1851,Susan,Jones,sjones@icloud.com,719-493-8581,Chicago,IL,60601,584.53,2025-06-14,Online,Southwest,DIV005,E-Commerce
+1513,Michael,Brown,michaelbrown@gmail.com,931-186-9266,Charlotte,NC,28201,649.67,2025-09-26,Online,Southeast,DIV004,Direct
+1162,Christopher,Walker,christopherwalker@outlook.com,993-446-1857,San Jose,CA,95101,791.33,2025-10-13,Wholesale,Northeast,DIV003,Retail
+1290,Maria,Roberts,maria.roberts@hotmail.com,796-779-3317,Phoenix,AZ,85001,917.58,2025-11-01,Wholesale,Mid-Atlantic,DIV004,E-Commerce
+1086,Joseph,Baker,josephbaker@aol.com,330-786-9624,Fort Worth,tx,76101,102.52,2025-07-05,Distributor,West,DIV003,Retail
+1973,David,Lewis,david.lewis@yahoo.com,340-258-2264,Indianapolis,IN,46201,302.83,2025-01-20,Online,West,DIV005,Partner
+1897,Jason,Turner,jasonturner@icloud.com,357-266-3962,Phoenix,AZ,85001,833.03,2025-01-23,Mobile App,Pacific Northwest,DIV002,Direct
+1692,Laura,Harris,lauraharris@icloud.com,970-866-8355,Charlotte,NC,28201,241.66,2025-07-08,In-Store,Midwest,DIV004,E-Commerce
+1584,Karen,Nguyen,knguyen@outlook.com,740-528-3655,San Jose,CA,95101,818.72,2025-11-25,Mobile App,Southeast,DIV003,Retail
+1380,Kenneth,Miller,kennethmiller@gmail.com,285-881-3626,San Francisco,CA,94101,280.06,2025-04-24,Mobile App,Southeast,DIV004,Retail
+1905,Dorothy,Johnson,dorothyjohnson@gmail.com,714-482-4862,Columbus,OH,43085,392.3,2025-06-13,Online,Midwest,DIV002,Retail
+1271,Thomas,Turner,thomas.turner@aol.com,536-972-9742,Fort Worth,TX,76101,386.21,2025-01-19,Wholesale,Mid-Atlantic,DIV004,Partner
+1019,Maria,Jackson,mjackson@icloud.com,823-640-7934,Phoenix,AZ,85001,0,2025-01-25,Wholesale,Southeast,DIV003,Retail
+1440,Patricia,Davis,patricia.davis@aol.com,640-562-4743,Seattle,WA,98101,419.68,2025-06-10,Distributor,Southwest,DIV004,Retail
+1440,William,Wilson,wwilson@icloud.com,435-612-6802,Fort Worth,TX,76101,81.35,2025-02-09,Online,Southwest,DIV001,Direct
+1450,,Hill,maryhill@aol.com,481-705-1920,Charlotte,NC,28201,358.42,2025-01-20,Online,Midwest,DIV004,Direct
+1346,Brian,Anderson,briananderson@aol.com,846-286-3209,Charlotte,NC,28201,72.47,2025-01-23,Distributor,Northeast,DIV003,E-Commerce
+1907,Alice,Clark,aliceclark@icloud.com,756-584-5150,San Jose,CA,95101,46.25,2025-12-02,In-Store,Midwest,DIV003,Retail
+1127,Christopher,Scott,christopherscott@aol.com,595-447-4060,Fort Worth,TX,76101,501.24,2025-02-12,Distributor,Midwest,DIV005,B2B
+1080,Paul,Roberts,paulroberts@icloud.com,000-000-0000,Philadelphia,PA,19101,334.64,2025-08-07,Wholesale,Midwest,DIV004,Partner
+1454,Dorothy,Torres,dorothytorres@aol.com,829-545-5498,Los Angeles,CA,90001,643.07,2025-09-20,Online,Northeast,DIV004,B2B
+1695,Barbara,Johnson,bjohnson@icloud.com,648-135-3068,Phoenix,AZ,85001,76.56,2025-01-17,Wholesale,Midwest,DIV004,Partner
+1629,Alice,Adams,aadams@outlook.com,231-162-8847,San Jose,CA,95101,848.83,2025-12-31,Distributor,Mid-Atlantic,DIV001,Direct
+1511,George,Hall,GeorgeHallgmail.com,993-366-8311,Seattle,WA,98101,222.42,2025-03-04,Mobile App,Midwest,DIV004,E-Commerce
+1075,Karen,Anderson,kanderson@gmail.com,527-783-6692,Charlotte,NC,28201,712.45,2025-03-22,Mobile App,West,DIV003,B2B
+1949,Michelle,Anderson,michelle.anderson@icloud.com,324-305-3275,Jacksonville,FL,32099,244.37,2025-10-21,Distributor,Northeast,DIV003,Partner
+1822,Kenneth,Wilson,kenneth.wilson@gmail.com,516-507-8842,Nashville,TN,37201,530.44,2025-03-06,Distributor,Pacific Northwest,DIV005,Retail
+1657,Mary,Torres,mtorres@aol.com,552-231-3981,Charlotte,NC,28201,770.1,2025-03-05,In-Store,Southwest,DIV005,Retail
+1311,Barbara,Taylor,barbara.taylor@aol.com,554-631-5653,Austin,TX,73301,847.47,2025-03-06,Wholesale,Southeast,DIV005,B2B
+1249,linda,Mitchell,lmitchell@gmail.com,412-700-4538,San Antonio,TX,78201,814.92,2025-01-02,In-Store,Midwest,DIV002,Partner
+1083,Alice,Mitchell,alice.mitchell@aol.com,985-685-7825,Dallas,TX,75201,621.93,2025-11-25,Online,Southwest,DIV005,B2B
+1494,Richard,Allen,RichardAllenoutlook.com,905-161-3589,San Jose,CA,95101,445.21,2025-11-07,Distributor,Southwest,DIV002,B2B
+1882,Anthony,Clark,anthony.clark@outlook.com,978-479-9437,Jacksonville,FL,32099,566.03,2025-05-17,Wholesale,Southeast,DIV004,Retail
+1144,Patricia,Brown,pbrown@outlook.com,628-354-3616,San Jose,CA,95101,815.34,2025-03-23,Mobile App,Mid-Atlantic,DIV003,E-Commerce
+1527,,Flores,mark.flores@outlook.com,292-502-9281,San Jose,CA,95101,462.66,2025-01-25,In-Store,Southeast,DIV005,B2B
+1506,Carol,Hill,carol.hill@icloud.com,310-541-3194,San Jose,CA,95101,883.63,2025-01-24,Wholesale,Pacific Northwest,DIV004,B2B
+1583,Kenneth,Thomas,KennethThomasicloud.com,275-495-9261,Jacksonville,FL,32099,455.85,2025-03-02,Mobile App,Midwest,DIV005,Partner
+1099,Daniel,Walker,DanielWalkericloud.com,973-247-4261,Austin,TX,73301,606.44,2025-01-20,Distributor,West,DIV001,Retail
+1341,Betty,Adams,badams@yahoo.com,727-243-6373,Charlotte,NC,28201,932.06,2025-06-03,Wholesale,Southeast,DIV004,Partner
+1519,Helen,Nelson,hnelson@aol.com,506-586-1272,Indianapolis,IN,46201,374.67,2025-12-19,Online,Southwest,DIV005,B2B
+1611,Betty,Martin,betty.martin@icloud.com,938-152-8871,Denver,CO,80201,0,2025-12-15,Mobile App,Pacific Northwest,DIV004,E-Commerce
+1586,Michelle,Davis,michelledavis@gmail.com,521-528-3481,San Antonio,TX,78201,418.83,2025-08-30,In-Store,Southwest,DIV005,Partner
+1753,Laura,Brown,laura.brown@icloud.com,774-432-8837,Phoenix,AZ,85001,530.22,2025-06-25,Wholesale,Southeast,DIV004,Partner
+1692,Jason,Martin,jason.martin@outlook.com,452-385-5890,Nashville,TN,37201,232.62,2025-12-20,Wholesale,Pacific Northwest,DIV003,E-Commerce
+1519,Helen,Nelson,hnelson@aol.com,506-586-1272,Indianapolis,IN,46201,374.67,2025-12-19,Online,Southwest,DIV005,B2B
+1080,Dorothy,Torres,dorothytorres@aol.com,419-306-9824,Dallas,TX,75201,278.42,2025-02-25,Mobile App,Mid-Atlantic,DIV003,E-Commerce
+1600,Richard,Harris,rharris@aol.com,431-753-4814,Los Angeles,CA,90001,61.97,2025-12-15,Distributor,Midwest,DIV004,Retail
+1005,Kenneth,Taylor,kennethtaylor@aol.com,688-766-4267,Columbus,OH,43085,758.35,2025-02-15,Wholesale,Midwest,DIV003,Retail
+1237,Sandra,Williams,sandra.williams@outlook.com,237-956-7504,Philadelphia,pa,19101,790.08,2025-01-05,In-Store,Mid-Atlantic,DIV003,Retail
+1617,Patricia,Lewis,plewis@outlook.com,756-636-9092,San Jose,CA,,890.37,2025-05-20,In-Store,Pacific Northwest,DIV005,Direct
+1115,Thomas,Taylor,thomastaylor@aol.com,935-290-1230,Charlotte,NC,28201,739.25,2025-11-09,Wholesale,West,DIV002,E-Commerce
+1918,Daniel,Scott,daniel.scott@hotmail.com,610-785-2562,SAN FRANCISCO,CA,94101,192.93,2025-01-04,In-Store,Southwest,DIV003,E-Commerce
+1241,Karen,,kthompson@hotmail.com,940-686-1187,Austin,TX,73301,268.94,2025-12-08,Wholesale,Mid-Atlantic,DIV002,Retail
+1314,Barbara,Allen,barbaraallen@aol.com,906-220-5833,San Francisco,CA,94101,373.87,2025-03-20,In-Store,Southeast,DIV002,Direct
+1620,Christopher,Wright,cwright@outlook.com,880-945-4578,Seattle,WA,98101,764.24,2025-08-17,Mobile App,Pacific Northwest,DIV001,Partner
+1370,Mary,Mitchell,mmitchell@gmail.com,717-307-9792,Houston,TX,77001,158.35,2025-03-01,Wholesale,Pacific Northwest,DIV005,Direct
+1734,Steven,Flores,stevenflores@icloud.com,256-564-3161,Chicago,IL,60601,518.12,2025-08-25,Distributor,West,DIV001,Partner
+1315,Laura,Johnson,laura.johnson@hotmail.com,963-323-2196,Fort Worth,TX,76101,54.84,2025-01-31,Wholesale,Mid-Atlantic,DIV001,Partner
+1070,Betty,Williams,betty.williams@outlook.com,987-238-7887,San Jose,CA,95101,380.72,2025-02-11,Distributor,Southwest,DIV004,Direct
+1677,Sandra,Wilson,sandra.wilson@gmail.com,750-502-9664,Jacksonville,FL,32099,136.07,2025-06-02,In-Store,Pacific Northwest,DIV001,Retail
+1736,Sandra,Scott,sandra.scott@outlook.com,453-571-6671,Seattle,WA,98101,163.57,2025-12-05,In-Store,Mid-Atlantic,DIV001,Retail
+1784,Jane,Harris,jane.harris@gmail.com,808-134-8314,San Antonio,TX,78201,0,2025-08-13,Online,Southeast,DIV001,Direct
+1222,Sarah,Brown,sarahbrown@icloud.com,439-935-6224,Phoenix,AZ,85001,581.7,2025-12-05,Wholesale,Southeast,DIV003,E-Commerce
+1423,Joseph,Thompson,jthompson@icloud.com,952-279-7999,Los Angeles,CA,90001,560.29,2025-06-13,Online,Midwest,DIV004,Partner
+1418,Michael,Robinson,mrobinson@yahoo.com,684-346-4692,Fort Worth,TX,76101,307.73,2025-10-15,In-Store,Pacific Northwest,DIV004,Retail
+1426,Kenneth,Adams,kenneth.adams@outlook.com,461-308-6411,Phoenix,AZ,85001,650.24,2025-10-02,Distributor,Pacific Northwest,DIV003,Retail
+1195,Bob,Thompson,bthompson@aol.com,817-140-2192,Fort Worth,TX,,196.28,2025-09-03,Mobile App,Mid-Atlantic,DIV005,E-Commerce
+1928,Thomas,Robinson,thomas.robinson@yahoo.com,959-220-8846,New York,NY,10001,915.3,2025-05-03,Mobile App,Mid-Atlantic,DIV002,Direct
+1794,Susan,Hall,shall@icloud.com,567-415-5285,Charlotte,NC,28201,366.05,2025-06-13,Distributor,Southwest,DIV001,Direct
+1379,Margaret,Wright,margaret.wright@icloud.com,959-249-1265,Los Angeles,CA,,268.17,2025-03-20,Mobile App,West,DIV004,B2B
+1235,Lisa,Mitchell,lmitchell@outlook.com,870-801-6530,San Diego,CA,92101,264.75,2025-03-28,Distributor,Mid-Atlantic,DIV004,Direct
+1360,Barbara,Wilson,BarbaraWilsonoutlook.com,755-757-1962,Seattle,WA,98101,528.7,2025-07-31,Online,Pacific Northwest,DIV001,Retail
+1645,Jennifer,Jones,jennifer.jones@gmail.com,717-566-7114,Phoenix,AZ,85001,69.85,2025-01-04,Mobile App,Southwest,DIV004,Retail
+1421,John,Johnson,johnjohnson@aol.com,748-393-1280,San Francisco,CA,94101,507.19,2025-02-19,Distributor,Pacific Northwest,DIV002,Retail
+1246,Elizabeth,Turner,elizabethturner@hotmail.com,473-914-7502,San Francisco,CA,94101,0,2025-12-23,Distributor,Southwest,DIV005,E-Commerce
+1700,James,Williams,jameswilliams@outlook.com,586-665-8798,Chicago,IL,60601,65.55,2025-09-13,Online,Mid-Atlantic,DIV002,Retail
+1660,Thomas,Mitchell,thomas.mitchell@icloud.com,435-316-8790,Houston,TX,77001,278.38,2025-10-16,Online,Mid-Atlantic,DIV003,Partner
+1183,Margaret,Johnson,margaret.johnson@icloud.com,970-940-7525,San Antonio,TX,78201,929.59,2025-10-18,Wholesale,Southeast,DIV005,E-Commerce
+1398,Ronald,Nelson,rnelson@outlook.com,343-909-2284,Austin,TX,73301,505.78,2025-04-29,Wholesale,Northeast,DIV001,Direct
+1348,Carol,Turner,carolturner@outlook.com,230-749-5478,Nashville,TN,37201,785.71,2025-10-11,Distributor,Southwest,DIV002,B2B
+1442,William,Carter,wcarter@gmail.com,502-917-5037,Fort Worth,TX,76101,715.98,2025-12-31,Online,Midwest,DIV002,Direct
+1157,Kevin,Hall,kevin.hall@hotmail.com,293-105-6050,Austin,TX,73301,450.29,2025-04-06,Wholesale,Northeast,DIV002,Retail
+1570,Kenneth,Green,kenneth.green@gmail.com,291-462-2524,Columbus,OH,43085,600.96,2025-05-30,Wholesale,Pacific Northwest,DIV004,Retail
+1797,,Baker,jbaker@icloud.com,373-801-7237,San Diego,CA,92101,177.81,2025-03-16,Wholesale,Midwest,DIV003,Direct
+1445,Charles,,charles.wright@outlook.com,569-357-5040,San Jose,CA,95101,723.69,2025-08-23,Distributor,West,DIV005,E-Commerce
+1311,John,Allen,johnallen@icloud.com,537-550-6484,Austin,TX,73301,436.31,2025-11-05,Mobile App,Southeast,DIV003,B2B
+1205,Betty,Clark,bettyclark@outlook.com,498-852-9044,Philadelphia,PA,19101,968.09,2025-07-21,In-Store,Midwest,DIV004,B2B
+1954,Donna,Thomas,donna.thomas@icloud.com,898-886-1440,Denver,CO,80201,953.47,2025-05-30,Distributor,Mid-Atlantic,DIV002,Direct
+1070,Nancy,Flores,nancyflores@aol.com,447-358-3525,Phoenix,AZ,85001,718.08,2025-09-03,Distributor,Northeast,DIV004,Partner
+1547,Helen,Wright,helenwright@gmail.com,918-931-9796,Seattle,WA,98101,597.88,2025-03-27,Online,Northeast,DIV002,B2B
+1045,Donna,Allen,donna.allen@outlook.com,210-200-5239,Austin,TX,73301,229.78,2025-04-24,Mobile App,West,DIV005,Partner
+1400,Mark,Carter,markcarter@yahoo.com,225-594-2712,San Francisco,CA,94101,302.48,2025-06-09,Online,Northeast,DIV002,B2B
+1803,David,Adams,davidadams@hotmail.com,299-548-8412,Indianapolis,IN,46201,325.72,2025-06-25,Wholesale,Northeast,DIV001,Retail
+1693,Barbara,Harris,bharris@yahoo.com,363-438-7985,San Francisco,CA,94101,958.88,2025-04-06,In-Store,Pacific Northwest,DIV004,E-Commerce
+1442,Daniel,,danieljohnson@yahoo.com,806-539-7370,Nashville,TN,37201,14.41,2025-10-23,In-Store,Southeast,DIV003,Retail
+1892,Sandra,Anderson,sandra.anderson@hotmail.com,668-216-5298,Jacksonville,FL,32099,673.99,2025-07-18,Distributor,West,DIV003,Partner
+1601,Robert,Lee,rlee@outlook.com,376-933-5873,Jacksonville,FL,32099,0,2025-03-02,Mobile App,Northeast,DIV002,B2B
+1119,William,Walker,williamwalker@icloud.com,628-710-3258,Phoenix,AZ,85001,579.06,2025-12-22,Distributor,Southeast,DIV004,Partner
+1953,William,Baker,WilliamBakeroutlook.com,343-291-6154,Philadelphia,PA,19101,843.57,2025-09-06,Mobile App,Northeast,DIV003,Retail
+1119,William,Walker,williamwalker@icloud.com,628-710-3258,Phoenix,AZ,85001,579.06,2025-12-22,Distributor,Southeast,DIV004,Partner
+1225,Susan,,swilliams@yahoo.com,495-272-8492,Dallas,TX,75201,569.99,2025-10-21,Distributor,West,DIV005,Retail
+1793,Sandra,Walker,swalker@gmail.com,651-659-4580,Seattle,WA,98101,989.88,2025-01-17,Online,Mid-Atlantic,DIV002,B2B
+1356,James,Torres,JamesTorresyahoo.com,955-702-6744,Houston,TX,77001,862.44,2025-11-12,Mobile App,Mid-Atlantic,DIV004,E-Commerce
+1211,David,Brown,dbrown@hotmail.com,487-711-9827,Denver,CO,80201,176.69,2025-09-21,Wholesale,Midwest,DIV005,B2B
+1695,Patricia,Wilson,PatriciaWilsongmail.com,871-229-3174,Columbus,OH,43085,257.18,2025-09-08,Wholesale,Pacific Northwest,DIV002,Direct
+1647,Charles,Wright,charles.wright@outlook.com,848-913-2525,Fort Worth,TX,76101,408.82,2025-09-07,Wholesale,Mid-Atlantic,DIV003,Direct
+1002,Jason,Garcia,jgarcia@aol.com,914-466-2037,CHARLOTTE,NC,28201,797.72,2025-09-11,Distributor,Southeast,DIV004,E-Commerce
+1848,Susan,Lewis,SusanLewisicloud.com,779-972-8951,Seattle,WA,98101,790.42,2025-01-09,Online,Northeast,DIV001,Direct
+1878,Barbara,Torres,barbaratorres@gmail.com,407-805-3161,Charlotte,NC,28201,883.33,2025-12-02,Wholesale,Southeast,DIV003,Retail
+1084,Christopher,Taylor,ctaylor@outlook.com,512-843-4836,Los Angeles,CA,90001,434.94,2025-04-20,Online,Mid-Atlantic,DIV001,Retail
+1135,Steven,White,stevenwhite@aol.com,209-108-6629,San Francisco,CA,94101,0,2025-02-06,Distributor,Mid-Atlantic,DIV002,Direct
+1091,Laura,Miller,lauramiller@hotmail.com,506-240-7270,Houston,TX,77001,775.73,2025-09-29,In-Store,Mid-Atlantic,DIV002,Retail
+1624,Brian,Taylor,btaylor@hotmail.com,418-743-3480,Charlotte,NC,28201,920.7,2025-02-14,Mobile App,Mid-Atlantic,DIV004,E-Commerce
+1143,Sarah,Davis,sarahdavis@aol.com,559-539-6152,Denver,CO,80201,793.17,2025-10-11,In-Store,Midwest,DIV001,E-Commerce
+1738,Carol,Young,carolyoung@aol.com,410-630-9348,New York,NY,10001,196.76,2025-09-11,Distributor,Midwest,DIV001,E-Commerce
+1246,Donald,Roberts,donald.roberts@icloud.com,000-000-0000,Chicago,IL,60601,392.97,2025-12-16,Mobile App,Southwest,DIV003,Partner
+1482,Jason,Jones,jason.jones@icloud.com,214-368-4534,New York,NY,10001,49.43,2025-05-27,Online,Pacific Northwest,DIV004,Partner
+1513,Jason,Wright,jasonwright@aol.com,284-755-9791,Columbus,OH,43085,542.28,2025-02-10,In-Store,Midwest,DIV001,B2B
+1208,Michael,,mnelson@outlook.com,849-881-2083,Austin,TX,73301,317.07,2025-05-06,Distributor,Mid-Atlantic,DIV002,Retail
+1444,Robert,Nguyen,robert.nguyen@icloud.com,516-782-3877,Nashville,TN,37201,128.25,2025-09-12,In-Store,Mid-Atlantic,DIV001,E-Commerce
+1535,george,Martin,george.martin@hotmail.com,967-899-5403,Philadelphia,PA,19101,735.61,2025-08-08,Online,Pacific Northwest,DIV001,B2B
+1065,Maria,Mitchell,mariamitchell@outlook.com,723-468-1908,Chicago,IL,60601,504.61,2025-05-11,Mobile App,Southeast,DIV003,E-Commerce
+1915,Donna,Davis,ddavis@aol.com,202-145-1201,San Diego,CA,92101,252.11,2025-04-02,Distributor,Midwest,DIV004,E-Commerce
+1878,Alice,Baker,alicebaker@yahoo.com,454-526-6241,Columbus,OH,43085,278.55,2025-09-15,Online,West,DIV003,Retail
+1205,Betty,Clark,bettyclark@outlook.com,498-852-9044,Philadelphia,PA,19101,968.09,2025-07-21,In-Store,Midwest,DIV004,B2B
+1793,Sandra,Walker,swalker@gmail.com,651-659-4580,Seattle,WA,98101,989.88,2025-01-17,Online,Mid-Atlantic,DIV002,B2B
+1024,Jennifer,Nelson,jnelson@aol.com,209-443-1023,Jacksonville,FL,32099,761.34,2025-04-16,Distributor,Pacific Northwest,DIV003,Retail
+1243,Nancy,Flores,nflores@yahoo.com,486-195-1719,Los Angeles,CA,90001,922.06,2025-02-13,Mobile App,Southwest,DIV003,Direct
+1517,Linda,Allen,lallen@icloud.com,263-545-3141,Chicago,IL,60601,244.4,2025-12-25,Wholesale,Pacific Northwest,DIV003,Direct
+1334,Margaret,Torres,MargaretTorresyahoo.com,407-239-2785,Dallas,TX,75201,163.86,2025-07-28,In-Store,Southwest,DIV004,B2B
+1366,Jason,Jackson,jasonjackson@hotmail.com,471-972-2964,Charlotte,NC,28201,99.52,2025-04-21,Wholesale,Pacific Northwest,DIV005,Retail
+1335,Michael,Garcia,michaelgarcia@hotmail.com,725-150-5896,San Diego,CA,92101,267.57,2025-10-12,In-Store,Northeast,DIV004,Direct
+1255,Patricia,Nguyen,patricia.nguyen@yahoo.com,212-163-4641,HOUSTON,TX,77001,139.41,2025-10-28,Distributor,Midwest,DIV001,Partner
+1832,Mary,Johnson,mjohnson@yahoo.com,000-000-0000,Chicago,IL,60601,101.06,2025-01-26,Wholesale,Northeast,DIV001,Direct
+1878,Alice,Baker,alicebaker@yahoo.com,454-526-6241,Columbus,OH,43085,278.55,2025-09-15,Online,West,DIV003,Retail
+1631,Richard,Young,ryoung@outlook.com,690-162-2437,Indianapolis,IN,46201,286.98,2025-05-08,In-Store,Southwest,DIV002,Partner
+1821,Sandra,Johnson,sandrajohnson@aol.com,000-000-0000,Fort Worth,TX,76101,350.59,2025-05-19,Mobile App,West,DIV003,Direct
+1326,Carol,White,carol.white@hotmail.com,683-642-6856,New York,NY,10001,0,2025-12-03,In-Store,Southeast,DIV001,E-Commerce
+1546,Kevin,Brown,kevinbrown@icloud.com,563-959-3846,San Diego,CA,92101,184.34,2025-01-15,Mobile App,Midwest,DIV003,Partner
+1360,Donna,Mitchell,donna.mitchell@icloud.com,704-655-6063,Phoenix,AZ,,183.8,2025-11-05,Online,Northeast,DIV001,E-Commerce
+1539,Betty,Smith,betty.smith@icloud.com,333-448-3907,Austin,TX,73301,919.59,2025-10-28,Wholesale,Northeast,DIV001,E-Commerce
+1145,Jason,Davis,jason.davis@hotmail.com,582-821-7481,San Francisco,CA,94101,590.16,2025-03-22,Wholesale,Midwest,DIV003,E-Commerce
+1447,Ruth,Flores,rflores@yahoo.com,775-810-6846,Austin,TX,73301,231,2025-06-07,Mobile App,Pacific Northwest,DIV002,Direct
+1301,Linda,Anderson,landerson@aol.com,600-971-1530,New York,NY,10001,190.26,2025-11-24,Wholesale,Pacific Northwest,DIV005,E-Commerce
+1959,Donald,Moore,donald.moore@aol.com,443-455-6234,AUSTIN,TX,73301,176.21,2025-01-06,Online,Pacific Northwest,DIV003,Direct
+1255,Michelle,Jones,michelle.jones@hotmail.com,937-101-1788,Jacksonville,FL,32099,392.08,2025-07-13,Distributor,Southeast,DIV004,Direct
+1384,Patricia,Hill,phill@aol.com,430-266-8393,Denver,CO,80201,82.97,2025-05-14,Online,Midwest,DIV001,B2B
+1075,Thomas,Taylor,ttaylor@yahoo.com,000-000-0000,Fort Worth,TX,76101,344.57,2025-12-01,Mobile App,Southwest,DIV001,Direct
+1911,Paul,,paultaylor@gmail.com,410-294-7705,Los Angeles,CA,90001,700.22,2025-05-02,Mobile App,Midwest,DIV003,B2B
+1402,Donna,Baker,donna.baker@yahoo.com,569-103-8005,Indianapolis,IN,,96.75,2025-01-14,Mobile App,Southwest,DIV002,Retail
+1653,Susan,Garcia,susangarcia@gmail.com,607-582-9013,Indianapolis,IN,46201,895.93,2025-04-05,Wholesale,Northeast,DIV005,Direct
+1390,Christopher,Anderson,christopheranderson@gmail.com,650-576-5315,Charlotte,NC,28201,233.98,2025-12-23,Wholesale,West,DIV001,E-Commerce
+1087,Sharon,Lee,slee@outlook.com,432-666-1999,Seattle,WA,98101,842.39,2025-10-21,Mobile App,Southwest,DIV005,Direct
+1487,Joseph,Garcia,joseph.garcia@aol.com,714-684-9467,Fort Worth,TX,76101,802.45,2025-03-30,Mobile App,Southeast,DIV001,Direct
+1171,David,Thomas,davidthomas@gmail.com,280-799-8133,Phoenix,AZ,85001,209.9,2025-06-13,In-Store,Pacific Northwest,DIV005,B2B
+1936,Mary,Garcia,marygarcia@icloud.com,765-433-5525,Fort Worth,TX,76101,524.49,2025-09-25,Online,Pacific Northwest,DIV005,Partner
+1115,Nancy,Moore,nmoore@icloud.com,796-876-2641,Phoenix,AZ,85001,925.68,2025-10-02,Mobile App,Pacific Northwest,DIV001,B2B
+1898,Nancy,Martin,nancymartin@aol.com,785-723-8750,Fort Worth,TX,76101,47.09,2025-11-08,Wholesale,Southwest,DIV002,Partner
+1411,alice,Allen,alice.allen@aol.com,250-863-8785,Austin,TX,73301,921.63,2025-06-09,Wholesale,Northeast,DIV003,B2B
+1503,Michelle,Miller,michellemiller@yahoo.com,961-553-6257,San Diego,CA,,276.73,2025-08-15,Distributor,West,DIV001,E-Commerce
+1915,Donna,Davis,ddavis@aol.com,202-145-1201,San Diego,CA,92101,252.11,2025-04-02,Distributor,Midwest,DIV004,E-Commerce
+1878,Alice,Baker,alicebaker@yahoo.com,454-526-6241,Columbus,OH,43085,278.55,2025-09-15,Online,West,DIV003,Retail
+1500,Carol,Torres,ctorres@outlook.com,764-458-6640,Philadelphia,PA,19101,171.88,2025-01-15,Wholesale,Mid-Atlantic,DIV001,B2B
+1166,Donna,Jackson,donna.jackson@aol.com,893-311-5408,San Diego,CA,92101,655.07,2025-03-09,Mobile App,Northeast,DIV001,Direct
+1615,John,White,johnwhite@icloud.com,929-826-5511,Dallas,TX,,429.57,2025-05-10,Distributor,Pacific Northwest,DIV003,Direct
+1309,Ronald,Adams,radams@outlook.com,304-107-9380,Nashville,tn,37201,999.44,2025-05-25,Wholesale,West,DIV005,Partner
+1110,Betty,Jones,bjones@hotmail.com,532-982-5536,Austin,TX,73301,268.54,2025-05-04,Wholesale,Southeast,DIV002,Partner
+1824,Carol,Allen,carol.allen@aol.com,938-126-9148,Austin,TX,73301,997.49,2025-01-19,Wholesale,Southwest,DIV004,Direct
+1585,Elizabeth,Lewis,elewis@aol.com,853-903-8794,San Diego,CA,92101,907.46,2025-12-03,Wholesale,West,DIV003,E-Commerce
+1185,Susan,Miller,smiller@yahoo.com,464-842-3999,Indianapolis,IN,46201,0,2025-07-01,Wholesale,Mid-Atlantic,DIV001,E-Commerce
+1892,,Wright,josephwright@hotmail.com,799-401-8598,Austin,TX,73301,852.7,2025-11-14,Distributor,Northeast,DIV005,Partner
+1910,Elizabeth,Green,elizabethgreen@aol.com,742-405-7768,Houston,TX,77001,63.52,2025-07-29,In-Store,Southeast,DIV002,B2B
+1914,mark,Moore,mark.moore@aol.com,997-182-8988,Austin,TX,73301,339.3,2025-08-20,In-Store,Midwest,DIV001,Retail
+1779,Jason,Taylor,jasontaylor@yahoo.com,981-898-2442,Denver,CO,80201,138.11,2025-08-08,Distributor,Mid-Atlantic,DIV004,Direct
+1392,John,Williams,jwilliams@yahoo.com,582-114-6279,Seattle,WA,98101,759.28,2025-11-17,Mobile App,Southeast,DIV001,Retail
+1231,Michelle,Lee,michelle.lee@yahoo.com,592-615-6015,San Jose,CA,95101,175.35,2025-09-24,Online,Midwest,DIV003,Direct
+1345,Paul,Wilson,paulwilson@outlook.com,968-292-3701,Austin,TX,,948.6,2025-03-09,Distributor,Northeast,DIV002,E-Commerce
+1022,Steven,Green,stevengreen@gmail.com,928-766-1612,Philadelphia,PA,19101,381.44,2025-01-25,Wholesale,Pacific Northwest,DIV005,Partner
+1049,Sharon,Miller,smiller@gmail.com,318-526-8279,New York,NY,10001,386.45,2025-04-16,Mobile App,Midwest,DIV004,E-Commerce
+1645,John,,john.robinson@aol.com,878-632-5423,Columbus,OH,43085,626.57,2025-11-13,In-Store,Southwest,DIV001,Partner
+1878,Alice,Baker,alicebaker@yahoo.com,454-526-6241,Columbus,OH,43085,278.55,2025-09-15,Online,West,DIV003,Retail
+1932,David,Hill,david.hill@yahoo.com,213-787-2458,Austin,TX,73301,907.81,2025-02-16,Mobile App,Mid-Atlantic,DIV004,E-Commerce
+1076,Laura,Miller,laura.miller@aol.com,667-403-5327,Dallas,TX,75201,469.63,2025-05-29,Online,Pacific Northwest,DIV002,Retail
+1693,Margaret,Scott,margaret.scott@gmail.com,209-972-3267,HOUSTON,TX,77001,666.72,2025-11-15,In-Store,Midwest,DIV003,Direct
+1750,James,Walker,james.walker@yahoo.com,610-509-8479,Austin,TX,73301,279.11,2025-11-29,Distributor,Mid-Atlantic,DIV004,Direct
+1170,Robert,Wilson,robert.wilson@yahoo.com,626-704-8908,Los Angeles,CA,90001,804.24,2025-07-03,Distributor,Southeast,DIV005,Direct
+1883,Ronald,Wilson,ronald.wilson@outlook.com,621-551-1753,Indianapolis,IN,46201,0,2025-10-17,Wholesale,Northeast,DIV005,Partner
+1978,Sharon,Lewis,slewis@icloud.com,917-733-2560,San Francisco,CA,94101,438.52,2025-03-18,In-Store,Southwest,DIV003,Direct
+1571,Edward,Brown,edward.brown@aol.com,717-969-8688,New York,NY,10001,853.35,2025-05-04,In-Store,Northeast,DIV004,B2B
+1284,Bob,Green,bgreen@icloud.com,587-512-4850,San Diego,CA,92101,88.04,2025-02-15,Distributor,Pacific Northwest,DIV005,Direct
+1457,Margaret,Davis,mdavis@aol.com,218-205-7609,Indianapolis,IN,46201,418.22,2025-11-06,Mobile App,West,DIV001,Retail
+1652,Joseph,Green,jgreen@yahoo.com,887-567-6584,Seattle,WA,98101,369.71,2025-06-19,Online,Pacific Northwest,DIV002,Direct
+1634,Carol,Hill,carolhill@aol.com,316-199-4633,Jacksonville,FL,32099,12.17,2025-09-25,Wholesale,Pacific Northwest,DIV003,Partner
+1108,Alice,Taylor,ataylor@yahoo.com,960-838-7704,Indianapolis,IN,,115.89,2025-07-21,Mobile App,Southeast,DIV002,Retail
+1844,Elizabeth,Lewis,elizabeth.lewis@outlook.com,848-957-3018,Houston,TX,77001,774.42,2025-03-10,Distributor,Southwest,DIV005,Partner
+1004,George,Brown,gbrown@outlook.com,694-620-3903,Seattle,WA,98101,694.9,2025-07-18,In-Store,Mid-Atlantic,DIV002,Retail
+1620,Margaret,Green,mgreen@outlook.com,909-880-5067,Fort Worth,TX,76101,280.86,2025-03-12,Wholesale,Midwest,DIV004,E-Commerce
+1716,Kevin,Green,KevinGreenaol.com,521-828-4560,San Jose,CA,95101,208.88,2025-12-11,Mobile App,Mid-Atlantic,DIV003,B2B
+1727,Brian,Anderson,banderson@icloud.com,852-430-2890,San Francisco,CA,94101,763.17,2025-12-08,Mobile App,Southwest,DIV005,Partner
+1690,Kevin,Nelson,kevin.nelson@outlook.com,735-209-1414,San Jose,CA,95101,387.06,2025-05-17,Online,Mid-Atlantic,DIV001,E-Commerce
+1164,Susan,Martin,smartin@gmail.com,502-308-9866,Phoenix,AZ,85001,41.98,2025-04-25,Distributor,Northeast,DIV005,Partner
+1824,Carol,Allen,carol.allen@aol.com,938-126-9148,Austin,TX,73301,997.49,2025-01-19,Wholesale,Southwest,DIV004,Direct
+1207,Edward,Torres,etorres@aol.com,926-763-7025,San Diego,ca,92101,757.56,2025-04-10,Mobile App,Mid-Atlantic,DIV005,E-Commerce
+1181,Ronald,Jones,rjones@yahoo.com,726-222-7180,Philadelphia,PA,19101,50.23,2025-03-24,Wholesale,West,DIV003,E-Commerce
+1261,John,Lewis,john.lewis@aol.com,240-257-6285,Charlotte,NC,28201,600.91,2025-10-21,Mobile App,Pacific Northwest,DIV003,Direct
+1074,Anthony,Clark,anthony.clark@yahoo.com,733-169-9276,San Francisco,CA,94101,0,2025-06-28,Mobile App,West,DIV004,Retail
+1218,Sharon,Lewis,sharonlewis@hotmail.com,423-870-9691,Austin,TX,73301,480.11,2025-12-09,Mobile App,Pacific Northwest,DIV001,Retail
+1457,Margaret,Davis,mdavis@aol.com,218-205-7609,Indianapolis,IN,46201,418.22,2025-11-06,Mobile App,West,DIV001,Retail
+1841,Jason,Walker,jasonwalker@icloud.com,000-000-0000,San Francisco,CA,94101,899.3,2025-02-19,In-Store,Midwest,DIV005,Retail
+1979,Jason,Nelson,jnelson@gmail.com,267-315-4492,Seattle,WA,98101,866.3,2025-10-03,Distributor,Pacific Northwest,DIV001,E-Commerce
+1899,Kevin,Scott,kscott@aol.com,357-124-8523,Chicago,IL,60601,719.7,2025-04-02,Online,Northeast,DIV001,Retail
+1571,Mary,Mitchell,marymitchell@hotmail.com,597-561-7626,San Diego,CA,92101,438.69,2025-01-04,Online,Southwest,DIV001,Partner
+1633,Mary,Carter,mary.carter@aol.com,566-614-2738,Los Angeles,CA,90001,296.94,2025-08-13,Wholesale,West,DIV001,B2B
+1841,Sharon,Johnson,sjohnson@yahoo.com,425-239-7406,Indianapolis,IN,46201,798.8,2025-12-13,Mobile App,Midwest,DIV002,B2B
+1988,Laura,Walker,lwalker@icloud.com,344-226-1684,New York,ny,10001,14.98,2025-02-13,Mobile App,Southwest,DIV005,Partner
+1766,Kevin,Lee,klee@outlook.com,000-000-0000,San Antonio,TX,78201,192.15,2025-02-28,Mobile App,Pacific Northwest,DIV003,E-Commerce
+1818,Donna,Brown,dbrown@outlook.com,762-174-5762,Seattle,WA,98101,674.97,2025-09-07,Wholesale,Northeast,DIV002,Partner
+1365,Linda,Harris,lharris@hotmail.com,271-298-6206,Houston,TX,77001,491,2025-03-20,Wholesale,West,DIV003,Partner
+1373,Margaret,Scott,margaretscott@gmail.com,452-904-4629,Philadelphia,PA,19101,715.08,2025-12-14,Distributor,Midwest,DIV003,E-Commerce
+1898,Betty,Nguyen,bettynguyen@hotmail.com,698-664-2783,Charlotte,NC,,184.01,2025-10-03,Mobile App,Northeast,DIV003,E-Commerce
+1751,Ruth,Jones,rjones@gmail.com,846-131-7637,Chicago,IL,60601,771.51,2025-10-06,In-Store,Northeast,DIV005,B2B
+1552,Betty,Moore,betty.moore@outlook.com,990-703-5767,Jacksonville,FL,32099,142.54,2025-07-06,Mobile App,West,DIV001,Direct
+1751,Ruth,Jones,rjones@gmail.com,846-131-7637,Chicago,IL,60601,771.51,2025-10-06,In-Store,Northeast,DIV005,B2B
+1988,Laura,Walker,lwalker@icloud.com,344-226-1684,New York,ny,10001,14.98,2025-02-13,Mobile App,Southwest,DIV005,Partner
+1331,Patricia,Adams,patriciaadams@aol.com,792-657-3848,DALLAS,TX,75201,382.89,2025-09-22,Distributor,Midwest,DIV005,Retail
+1996,Jennifer,Adams,jenniferadams@hotmail.com,698-911-8898,Fort Worth,TX,76101,0,2025-03-26,Online,West,DIV002,Direct
+1526,Brian,Thompson,brian.thompson@yahoo.com,361-470-2938,San Antonio,TX,78201,664.5,2025-09-04,Distributor,Pacific Northwest,DIV003,Retail
+1490,David,Carter,davidcarter@aol.com,222-349-1706,Philadelphia,PA,19101,136.61,2025-01-21,Mobile App,Southeast,DIV002,Partner
+1150,Bob,Taylor,btaylor@yahoo.com,615-713-1305,Dallas,TX,75201,879.72,2025-11-07,Wholesale,Northeast,DIV002,Direct
+1888,Betty,Taylor,btaylor@outlook.com,346-913-3979,San Diego,CA,92101,626.98,2025-08-21,Mobile App,Midwest,DIV002,B2B
+1070,Jennifer,,jennifer.hall@yahoo.com,216-307-9564,Fort Worth,TX,76101,861,2025-11-07,Mobile App,Mid-Atlantic,DIV004,E-Commerce
+1487,Edward,Roberts,eroberts@icloud.com,970-220-2526,Los Angeles,CA,90001,487.42,2025-12-14,In-Store,West,DIV005,Retail
+1534,Nancy,Walker,nwalker@aol.com,639-334-8899,Los Angeles,CA,90001,791.66,2025-02-20,Distributor,Midwest,DIV005,Partner
+1331,Patricia,Adams,patriciaadams@aol.com,792-657-3848,DALLAS,TX,75201,382.89,2025-09-22,Distributor,Midwest,DIV005,Retail
+1210,michelle,Clark,michelle.clark@hotmail.com,358-536-5155,Columbus,OH,43085,268.69,2025-11-10,Mobile App,Southwest,DIV005,B2B
+1696,Daniel,Jackson,djackson@icloud.com,694-283-7065,Columbus,OH,43085,563.5,2025-06-26,Distributor,Midwest,DIV003,Partner
+1407,Kevin,Wilson,kevin.wilson@aol.com,657-901-3650,Houston,TX,77001,109.28,2025-11-11,Mobile App,Southwest,DIV003,Partner
+1723,Bob,Taylor,bob.taylor@aol.com,293-943-3381,Fort Worth,TX,76101,0,2025-05-15,Mobile App,Southwest,DIV001,Retail
+1070,Jennifer,,jennifer.hall@yahoo.com,216-307-9564,Fort Worth,TX,76101,861,2025-11-07,Mobile App,Mid-Atlantic,DIV004,E-Commerce
+1953,George,,gyoung@gmail.com,722-628-4795,San Antonio,TX,78201,619.04,2025-03-22,Online,Midwest,DIV002,Retail
+1282,Jason,Allen,jasonallen@aol.com,615-700-4281,Jacksonville,FL,32099,522.57,2025-10-14,Online,Northeast,DIV005,B2B
+1356,Dorothy,Thompson,dorothy.thompson@icloud.com,665-513-1076,San Diego,CA,92101,268.5,2025-02-07,Distributor,West,DIV001,Partner
+1348,Robert,Green,rgreen@icloud.com,456-810-8254,Dallas,TX,75201,966.39,2025-08-23,Mobile App,Southwest,DIV002,B2B
+1918,Steven,Johnson,stevenjohnson@gmail.com,269-491-4610,Indianapolis,IN,46201,680.14,2025-06-30,In-Store,Pacific Northwest,DIV003,Direct
+1009,Michelle,Martin,michelle.martin@hotmail.com,608-789-6603,San Diego,CA,92101,85.27,2025-04-22,In-Store,Southwest,DIV003,B2B
+1275,William,Thomas,william.thomas@aol.com,440-853-4965,Indianapolis,IN,46201,874.02,2025-11-13,In-Store,Southeast,DIV002,E-Commerce
+1797,Patricia,Davis,pdavis@aol.com,704-728-1108,Chicago,IL,60601,766.6,2025-11-14,Mobile App,Northeast,DIV004,B2B
+1919,Donna,Thompson,dthompson@yahoo.com,486-507-4638,Indianapolis,IN,46201,752.67,2025-09-02,In-Store,Northeast,DIV005,Direct
+1033,Helen,,helen.lee@aol.com,668-223-9490,Fort Worth,TX,76101,465.47,2025-10-25,Online,Northeast,DIV002,Direct
+1370,Edward,Martin,edwardmartin@icloud.com,442-375-8722,Philadelphia,PA,,958.94,2025-08-06,Wholesale,Midwest,DIV002,Direct
+1717,Sarah,Walker,sarahwalker@outlook.com,661-284-3148,Jacksonville,FL,32099,979.48,2025-05-01,In-Store,Pacific Northwest,DIV001,B2B
+1876,Lisa,Thomas,lisa.thomas@aol.com,684-925-1159,Phoenix,AZ,85001,184.84,2025-06-11,Distributor,Southeast,DIV005,Partner
+1307,Maria,Baker,mariabaker@gmail.com,301-807-3676,DENVER,CO,80201,69.44,2025-06-21,Wholesale,Southwest,DIV001,Direct
+1368,Kenneth,Baker,kenneth.baker@hotmail.com,621-224-6752,Dallas,TX,75201,868.69,2025-11-29,Mobile App,Southeast,DIV005,Partner
+1178,Jason,Young,jyoung@hotmail.com,722-599-8322,Jacksonville,FL,32099,890.74,2025-11-20,Distributor,West,DIV003,Direct
+1889,Barbara,Lewis,blewis@aol.com,785-514-2168,Columbus,oh,43085,88.32,2025-12-01,Wholesale,Southeast,DIV003,B2B
+1273,Carol,Allen,carolallen@outlook.com,965-701-9535,Dallas,TX,75201,965.87,2025-03-06,Distributor,Southeast,DIV002,Retail
+1677,Maria,Garcia,mariagarcia@yahoo.com,305-197-2045,San Antonio,TX,78201,937.43,2025-07-23,Distributor,West,DIV001,Retail
+1085,Patricia,Martin,patricia.martin@yahoo.com,870-499-6068,Nashville,TN,37201,237.06,2025-09-27,Wholesale,Southwest,DIV002,E-Commerce
+1029,Alice,Lee,alicelee@outlook.com,753-378-9987,Austin,TX,73301,450.4,2025-08-22,Mobile App,Southeast,DIV005,Partner
+1651,Donna,Scott,dscott@aol.com,746-417-6688,San Francisco,CA,94101,486.84,2025-06-07,In-Store,Pacific Northwest,DIV001,Direct
+1266,Michael,Robinson,mrobinson@gmail.com,976-968-3233,New York,ny,10001,350.45,2025-09-02,Distributor,West,DIV001,Direct
+1784,Paul,Young,paul.young@yahoo.com,761-482-4089,Nashville,TN,37201,417.62,2025-03-25,Mobile App,Southwest,DIV004,E-Commerce
+1661,Lisa,Hall,lisa.hall@hotmail.com,632-740-4924,San Diego,CA,92101,521.44,2025-11-29,Mobile App,Pacific Northwest,DIV003,B2B
+1828,Charles,Wright,charles.wright@gmail.com,000-000-0000,San Antonio,TX,78201,640.52,2025-09-09,Mobile App,Southwest,DIV003,Partner
+1019,Michael,Brown,MichaelBrowngmail.com,304-388-5410,Seattle,WA,98101,133.79,2025-02-16,Distributor,Mid-Atlantic,DIV001,E-Commerce
+1505,David,Lewis,davidlewis@hotmail.com,580-574-1519,Columbus,OH,43085,336.95,2025-02-06,In-Store,Northeast,DIV003,Direct
+1185,Elizabeth,Martin,elizabeth.martin@gmail.com,986-831-5078,Fort Worth,TX,76101,390.95,2025-08-24,Distributor,Southeast,DIV001,E-Commerce
+1096,George,Jackson,gjackson@outlook.com,519-430-3598,INDIANAPOLIS,IN,46201,632.87,2025-03-04,Online,Mid-Atlantic,DIV005,Partner
+1653,Joseph,,jthomas@gmail.com,423-215-4866,Jacksonville,FL,32099,636.58,2025-10-27,Wholesale,Northeast,DIV002,B2B
+1808,Richard,Smith,rsmith@icloud.com,686-804-3539,Los Angeles,CA,90001,377.68,2025-02-16,Online,Southeast,DIV002,Direct
+1346,Sarah,Brown,sbrown@hotmail.com,357-818-9787,Los Angeles,CA,90001,793.55,2025-10-13,In-Store,Southwest,DIV002,B2B
+1774,Dorothy,Torres,dtorres@gmail.com,586-466-3207,San Antonio,TX,78201,258.19,2025-05-31,Online,Southwest,DIV004,Partner
+1501,Elizabeth,Mitchell,elizabethmitchell@icloud.com,531-849-8674,Philadelphia,PA,19101,282.57,2025-02-05,Mobile App,Pacific Northwest,DIV005,E-Commerce
+1460,Susan,Martin,susanmartin@hotmail.com,200-894-9289,Seattle,WA,98101,0,2025-11-14,In-Store,Northeast,DIV005,B2B
+1738,Mary,Nelson,mnelson@yahoo.com,899-609-3525,Fort Worth,TX,76101,616.91,2025-02-19,Wholesale,Southwest,DIV003,Retail
+1068,Alice,Wilson,alice.wilson@gmail.com,309-597-4139,Philadelphia,PA,19101,107.77,2025-09-27,Mobile App,Mid-Atlantic,DIV004,Direct
+1604,Maria,Brown,mbrown@yahoo.com,935-172-1214,Jacksonville,FL,32099,930.91,2025-08-28,In-Store,Mid-Atlantic,DIV004,Retail
+1062,Christopher,Baker,cbaker@hotmail.com,259-943-5355,Columbus,OH,43085,533.73,2025-04-21,Online,Pacific Northwest,DIV003,Retail
+1099,Patricia,White,patricia.white@outlook.com,397-638-5075,Seattle,WA,98101,574.33,2025-02-24,In-Store,West,DIV005,Direct
+1590,Dorothy,Nguyen,dorothy.nguyen@gmail.com,384-663-7579,Columbus,OH,43085,509.65,2025-06-30,In-Store,West,DIV005,Direct
+1563,Margaret,Walker,margaretwalker@aol.com,943-431-4943,Columbus,OH,43085,567.51,2025-07-04,In-Store,Southwest,DIV005,B2B
+1458,Daniel,Smith,dsmith@hotmail.com,216-630-3213,Los Angeles,CA,90001,993.48,2025-04-20,Wholesale,Northeast,DIV003,E-Commerce
+1022,Jason,Thompson,jthompson@icloud.com,784-685-3534,Seattle,WA,98101,103.34,2025-05-16,Distributor,Midwest,DIV002,E-Commerce
+1596,Richard,White,richard.white@hotmail.com,784-509-4562,Dallas,TX,75201,736.92,2025-09-07,Wholesale,Pacific Northwest,DIV004,E-Commerce
+1706,Michelle,Mitchell,mmitchell@icloud.com,507-138-7251,Houston,TX,77001,87.69,2025-08-11,Online,Pacific Northwest,DIV003,B2B
+1888,Robert,White,RobertWhitegmail.com,996-747-7266,Nashville,TN,37201,63.59,2025-10-17,Mobile App,Northeast,DIV003,Partner
+1514,michelle,White,mwhite@gmail.com,949-502-8300,Phoenix,AZ,85001,755.31,2025-08-10,Mobile App,West,DIV001,E-Commerce
+1403,Michael,Wilson,michaelwilson@gmail.com,785-863-1807,Austin,TX,73301,552.67,2025-08-11,Wholesale,Northeast,DIV004,Partner
+1133,Sarah,Wilson,sarah.wilson@icloud.com,699-504-4212,Indianapolis,IN,46201,565.56,2025-05-17,Mobile App,Southeast,DIV002,Retail
+1331,Ronald,Mitchell,rmitchell@gmail.com,000-000-0000,Chicago,IL,60601,354.82,2025-06-06,Wholesale,Midwest,DIV005,Retail
+1358,Edward,Torres,edwardtorres@yahoo.com,245-937-4825,Nashville,TN,37201,0,2025-01-28,Wholesale,Southeast,DIV001,Retail
+1635,Michael,Young,myoung@hotmail.com,313-412-8373,New York,NY,10001,476.48,2025-04-15,Wholesale,Southeast,DIV005,E-Commerce
+1768,maria,Baker,mbaker@icloud.com,344-811-1301,Indianapolis,IN,46201,382.84,2025-01-31,Mobile App,Northeast,DIV003,E-Commerce
+1808,Michelle,Turner,michelleturner@gmail.com,870-108-2091,Dallas,tx,75201,394.76,2025-01-10,Wholesale,Mid-Atlantic,DIV003,Retail
+1904,Brian,Hall,bhall@outlook.com,926-201-6168,San Diego,CA,92101,489.82,2025-04-12,Mobile App,West,DIV001,E-Commerce
+1468,Kenneth,Johnson,kjohnson@yahoo.com,512-441-9027,Los Angeles,CA,90001,399.47,2025-07-01,In-Store,Northeast,DIV003,B2B
+1241,Helen,Thompson,helenthompson@aol.com,596-934-1482,Los Angeles,CA,90001,944.7,2025-07-21,Wholesale,Southeast,DIV002,B2B
+1089,Laura,Hall,lhall@aol.com,840-802-4726,San Francisco,CA,94101,423.16,2025-11-06,Mobile App,Southeast,DIV004,B2B
+1555,Linda,Jackson,ljackson@icloud.com,900-919-4314,Phoenix,AZ,85001,863.96,2025-08-09,Wholesale,Mid-Atlantic,DIV005,E-Commerce
+1999,Jason,Moore,jasonmoore@yahoo.com,269-670-9732,Denver,CO,80201,949.12,2025-01-16,Online,Southeast,DIV003,E-Commerce
+1901,Nancy,Wright,nwright@outlook.com,852-856-5485,San Jose,CA,95101,160.44,2025-01-14,In-Store,Northeast,DIV002,E-Commerce
+1626,Edward,Thompson,ethompson@icloud.com,436-710-4804,Nashville,TN,37201,238.6,2025-03-10,Online,Midwest,DIV001,Direct
+1619,Betty,Walker,bettywalker@outlook.com,685-240-3683,Philadelphia,PA,19101,0,2025-07-31,Online,Southwest,DIV001,B2B
+1687,Elizabeth,Jackson,elizabethjackson@yahoo.com,831-601-6323,Chicago,IL,60601,868.11,2025-11-08,In-Store,Southwest,DIV004,Retail
+1389,Laura,Clark,lclark@icloud.com,785-708-9784,Fort Worth,TX,76101,529.98,2025-08-22,Online,West,DIV001,Direct
+1043,Richard,Adams,radams@outlook.com,240-671-7347,Seattle,WA,98101,520.97,2025-07-23,Online,Southeast,DIV003,Direct
+1792,Susan,,susannguyen@outlook.com,827-155-9470,Philadelphia,PA,19101,904.64,2025-09-14,Distributor,Pacific Northwest,DIV004,Retail
+1797,Steven,Nelson,stevennelson@outlook.com,531-561-1408,PHOENIX,AZ,85001,187.09,2025-02-16,Mobile App,Mid-Atlantic,DIV002,Direct
+1708,Brian,Taylor,brian.taylor@gmail.com,923-560-6946,Houston,TX,77001,94.45,2025-03-23,Distributor,Mid-Atlantic,DIV005,Partner
+1389,alice,Taylor,ataylor@icloud.com,353-266-3369,Austin,TX,73301,187.08,2025-08-17,Online,Southwest,DIV003,B2B
+1185,Robert,Wilson,rwilson@gmail.com,983-359-1200,San Antonio,TX,78201,0,2025-09-10,Distributor,West,DIV001,Partner
+1346,Sarah,Brown,sbrown@hotmail.com,357-818-9787,Los Angeles,CA,90001,793.55,2025-10-13,In-Store,Southwest,DIV002,B2B
+1056,Brian,Lee,brian.lee@yahoo.com,000-000-0000,Los Angeles,CA,90001,337.8,2025-04-02,Online,Northeast,DIV001,Direct
+1291,Edward,Roberts,edward.roberts@icloud.com,666-867-6901,Denver,CO,80201,932.17,2025-07-08,Online,Pacific Northwest,DIV003,B2B
+1839,Mary,Scott,maryscott@gmail.com,682-237-2999,Seattle,WA,,697.67,2025-09-26,Wholesale,Midwest,DIV005,Direct
+1214,Edward,Brown,ebrown@icloud.com,844-641-2436,Houston,TX,77001,488.83,2025-11-08,Mobile App,Pacific Northwest,DIV003,Direct
+1265,George,Mitchell,george.mitchell@hotmail.com,829-676-9132,Nashville,TN,37201,524.51,2025-04-30,Distributor,Southwest,DIV002,Partner
+1198,John,Davis,jdavis@outlook.com,320-855-4396,New York,NY,10001,801.57,2025-06-29,Distributor,Southwest,DIV001,B2B
+1652,David,Smith,davidsmith@aol.com,460-909-2111,San Antonio,TX,78201,314.69,2025-02-28,Mobile App,West,DIV003,Retail
+1349,Daniel,Mitchell,DanielMitchellgmail.com,398-438-6536,Nashville,TN,37201,923.06,2025-09-04,Distributor,Southwest,DIV001,E-Commerce
+1471,Sandra,Lewis,slewis@outlook.com,257-955-9537,Charlotte,NC,28201,306.35,2025-04-17,Wholesale,West,DIV005,Retail
+1339,Dorothy,,dorothy.jones@hotmail.com,547-484-9753,Phoenix,AZ,85001,843.98,2025-11-01,Mobile App,West,DIV004,E-Commerce
+1801,Sarah,Robinson,sarah.robinson@aol.com,478-523-2422,Austin,TX,73301,502.08,2025-04-21,In-Store,Midwest,DIV004,B2B
+1179,Robert,Walker,robert.walker@yahoo.com,654-618-1408,Los Angeles,CA,90001,801.04,2025-09-05,Mobile App,Southeast,DIV002,B2B
+1536,Joseph,Clark,jclark@gmail.com,892-235-4361,Phoenix,AZ,85001,727.32,2025-01-03,Distributor,Southwest,DIV005,Retail
+1045,Ronald,Roberts,ronaldroberts@hotmail.com,247-205-9529,Chicago,IL,60601,768.52,2025-11-24,Wholesale,Northeast,DIV005,B2B
+1214,Edward,Brown,ebrown@icloud.com,844-641-2436,Houston,TX,77001,488.83,2025-11-08,Mobile App,Pacific Northwest,DIV003,Direct
+1573,Helen,Miller,helenmiller@icloud.com,762-426-5440,San Antonio,TX,78201,150.14,2025-02-06,Wholesale,West,DIV002,E-Commerce
+1913,Thomas,Nelson,thomas.nelson@gmail.com,229-582-1826,Charlotte,NC,28201,114.87,2025-04-02,Online,Northeast,DIV004,Direct
+1912,Steven,,steventorres@hotmail.com,540-937-4246,Nashville,TN,37201,715.77,2025-03-09,Mobile App,Northeast,DIV004,Partner
+1821,Michelle,Nguyen,michellenguyen@outlook.com,900-759-8625,Houston,TX,77001,475.84,2025-07-06,In-Store,Southeast,DIV005,B2B
+1716,Sharon,Lewis,sharonlewis@outlook.com,230-166-8787,Austin,TX,73301,121.76,2025-06-28,Distributor,Southwest,DIV002,B2B
+1130,Helen,Miller,helen.miller@aol.com,533-669-2162,Fort Worth,TX,76101,0,2025-07-31,Mobile App,Southwest,DIV004,Partner
+1249,Kenneth,Taylor,kenneth.taylor@outlook.com,548-313-8063,Indianapolis,IN,46201,0,2025-12-22,Distributor,West,DIV003,Partner
+1678,Sharon,Jones,sharon.jones@outlook.com,806-710-8584,Denver,CO,80201,332.12,2025-06-07,Online,Pacific Northwest,DIV004,E-Commerce
+1071,Carol,Miller,CarolMilleroutlook.com,706-760-2007,Nashville,TN,37201,99.63,2025-12-05,In-Store,West,DIV001,E-Commerce
+1652,David,Smith,davidsmith@aol.com,460-909-2111,San Antonio,TX,78201,314.69,2025-02-28,Mobile App,West,DIV003,Retail
+1413,Linda,Young,lyoung@hotmail.com,254-100-6885,Los Angeles,CA,90001,118.6,2025-08-10,Wholesale,Pacific Northwest,DIV001,E-Commerce
+1403,Ruth,Clark,ruthclark@outlook.com,645-658-4460,Fort Worth,TX,76101,665.86,2025-07-16,Distributor,Southeast,DIV002,Partner
+1368,Nancy,,nancy.moore@aol.com,337-111-2175,San Jose,CA,95101,651.91,2025-03-11,In-Store,Mid-Atlantic,DIV004,Direct
+1657,Nancy,Nguyen,nnguyen@outlook.com,384-565-9346,Nashville,TN,37201,429.88,2025-04-06,Distributor,Southwest,DIV003,E-Commerce
+1007,Donna,Flores,dflores@aol.com,475-520-9948,San Diego,CA,92101,580.59,2025-12-27,Online,Northeast,DIV005,Direct
+1594,Betty,Garcia,bgarcia@aol.com,739-979-5578,Phoenix,AZ,85001,470.29,2025-05-06,Online,West,DIV005,Retail
+1759,Sharon,Jones,sharonjones@icloud.com,827-154-6628,Seattle,WA,98101,539.68,2025-08-29,Online,Southwest,DIV004,Partner
+1339,Nancy,Lee,nancy.lee@hotmail.com,000-000-0000,San Jose,CA,95101,729.7,2025-10-24,Mobile App,Midwest,DIV001,Direct
+1052,sharon,Young,sharonyoung@gmail.com,696-184-3077,Nashville,TN,37201,510.54,2025-05-24,Wholesale,Midwest,DIV002,Partner
+1263,John,Davis,jdavis@yahoo.com,956-254-8317,Nashville,TN,37201,376.07,2025-04-03,In-Store,Midwest,DIV002,Direct
+1882,Alice,Lewis,alewis@yahoo.com,357-957-9125,Chicago,IL,60601,755.23,2025-12-05,Distributor,Pacific Northwest,DIV004,E-Commerce
+1652,Barbara,Jackson,barbarajackson@aol.com,255-757-5331,Denver,CO,80201,757.93,2025-07-24,Online,Northeast,DIV002,Direct
+1487,Kevin,Nelson,knelson@outlook.com,922-499-8775,San Diego,CA,92101,270,2025-05-28,Mobile App,Pacific Northwest,DIV004,Retail
+1459,Lisa,Clark,lisa.clark@aol.com,299-644-6797,SAN FRANCISCO,CA,94101,956.62,2025-05-19,Distributor,West,DIV003,B2B
+1043,Richard,Adams,radams@outlook.com,240-671-7347,Seattle,WA,98101,520.97,2025-07-23,Online,Southeast,DIV003,Direct
+1012,Nancy,,nmiller@gmail.com,656-459-4594,San Francisco,CA,94101,728,2025-11-14,Wholesale,Southeast,DIV001,Retail
+1961,Carol,Jackson,carol.jackson@aol.com,925-222-2415,Nashville,TN,37201,857.88,2025-02-26,In-Store,Southwest,DIV005,E-Commerce
+1259,Susan,Nguyen,susannguyen@aol.com,483-887-7995,Chicago,IL,60601,695.3,2025-05-22,Wholesale,Midwest,DIV002,Retail
+1391,Lisa,Lewis,lisalewis@hotmail.com,382-551-2137,Los Angeles,CA,90001,496.8,2025-11-27,In-Store,West,DIV004,E-Commerce
+1413,Linda,Young,lyoung@hotmail.com,254-100-6885,Los Angeles,CA,90001,118.6,2025-08-10,Wholesale,Pacific Northwest,DIV001,E-Commerce
+1152,Brian,Smith,briansmith@aol.com,472-255-6403,Los Angeles,CA,90001,905.57,2025-09-02,Mobile App,Northeast,DIV005,Direct
+1864,,Jones,laura.jones@yahoo.com,593-805-8898,Seattle,WA,98101,129.99,2025-07-25,Mobile App,Midwest,DIV003,B2B
+1249,Kenneth,Taylor,kenneth.taylor@outlook.com,548-313-8063,Indianapolis,IN,46201,0,2025-12-22,Distributor,West,DIV003,Partner
+1676,Elizabeth,Robinson,erobinson@gmail.com,905-467-8970,Fort Worth,TX,,94.01,2025-01-19,Distributor,Mid-Atlantic,DIV002,E-Commerce
+1737,Steven,Harris,steven.harris@outlook.com,753-758-6041,Indianapolis,IN,46201,504.69,2025-01-29,Distributor,Northeast,DIV001,B2B
+1339,Dorothy,,dorothy.jones@hotmail.com,547-484-9753,Phoenix,AZ,85001,843.98,2025-11-01,Mobile App,West,DIV004,E-Commerce
+1500,Brian,Johnson,brian.johnson@icloud.com,000-000-0000,Indianapolis,IN,46201,24.22,2025-11-09,Online,Midwest,DIV001,Direct
+1605,Mary,Miller,mmiller@outlook.com,830-325-2033,Houston,TX,77001,806.41,2025-03-03,Distributor,Midwest,DIV004,B2B
+1589,Sandra,Wilson,sandra.wilson@yahoo.com,807-277-6496,Austin,TX,73301,72.59,2025-12-23,Wholesale,Southeast,DIV004,E-Commerce
+1168,Karen,Harris,karen.harris@gmail.com,000-000-0000,Denver,CO,80201,779.89,2025-01-04,Online,Southwest,DIV001,Retail
+1091,Anthony,Carter,acarter@outlook.com,991-587-3079,San Jose,CA,95101,214.1,2025-05-03,Wholesale,West,DIV004,Direct
+1625,Michelle,Williams,mwilliams@yahoo.com,711-726-2442,Nashville,TN,37201,0,2025-10-13,Wholesale,Midwest,DIV004,Retail
+1120,George,Miller,gmiller@hotmail.com,719-324-8605,Nashville,TN,37201,772.63,2025-02-27,In-Store,Midwest,DIV001,E-Commerce
+1091,Anthony,Carter,acarter@outlook.com,991-587-3079,San Jose,CA,95101,214.1,2025-05-03,Wholesale,West,DIV004,Direct
+1053,Sandra,Anderson,sandraanderson@gmail.com,727-218-2160,Philadelphia,PA,,896.13,2025-08-03,Distributor,West,DIV005,B2B
+1693,Margaret,White,margaret.white@hotmail.com,300-342-7759,Houston,TX,77001,871.19,2025-10-27,Distributor,Southeast,DIV001,Direct
+1911,Paul,Moore,paulmoore@icloud.com,382-496-7119,San Antonio,TX,78201,145.04,2025-04-14,In-Store,Mid-Atlantic,DIV003,B2B
+1032,Michelle,Mitchell,michelle.mitchell@hotmail.com,313-972-8627,Los Angeles,CA,90001,463.99,2025-06-01,In-Store,Pacific Northwest,DIV003,E-Commerce
+1808,Ruth,Turner,rturner@icloud.com,435-188-7745,Philadelphia,PA,19101,858.4,2025-08-31,Distributor,Pacific Northwest,DIV002,Partner
+1285,John,Scott,johnscott@yahoo.com,644-693-4643,San Diego,CA,92101,892.9,2025-08-02,Mobile App,Southeast,DIV005,Retail
+1041,Betty,Green,bgreen@outlook.com,603-590-2605,Los Angeles,CA,90001,457.92,2025-12-21,In-Store,Northeast,DIV005,Retail
+1152,Brian,Smith,briansmith@aol.com,472-255-6403,Los Angeles,CA,90001,905.57,2025-09-02,Mobile App,Northeast,DIV005,Direct
+1474,Jason,Wilson,jasonwilson@yahoo.com,841-575-1022,Fort Worth,tx,76101,861.78,2025-01-17,Online,Southwest,DIV003,Partner
+1770,Charles,Turner,charles.turner@icloud.com,901-182-6500,Seattle,WA,98101,738.4,2025-02-26,Online,West,DIV003,Retail
+1476,Edward,,edward.williams@hotmail.com,863-672-2097,Jacksonville,FL,32099,565.15,2025-10-04,In-Store,Southeast,DIV003,E-Commerce
+1489,Kevin,Carter,kevin.carter@aol.com,528-461-5380,San Antonio,TX,78201,508.53,2025-07-10,Distributor,Midwest,DIV001,Retail
+1497,Helen,Adams,hadams@outlook.com,744-794-9730,Houston,TX,77001,900.46,2025-04-07,Distributor,West,DIV003,Retail
+1468,James,Garcia,jamesgarcia@yahoo.com,278-211-3699,Fort Worth,TX,76101,283.18,2025-09-24,In-Store,Southwest,DIV002,E-Commerce
+1023,Susan,Wright,susanwright@yahoo.com,555-530-8272,Seattle,WA,98101,740.33,2025-01-12,Online,Midwest,DIV002,Retail
+1237,George,Lewis,georgelewis@icloud.com,871-761-6346,Columbus,oh,43085,491.29,2025-08-23,Mobile App,Pacific Northwest,DIV005,Direct
+1135,Joseph,Taylor,josephtaylor@yahoo.com,580-395-1775,Dallas,TX,75201,156.85,2025-03-24,Wholesale,Southwest,DIV002,Partner
+1292,William,Anderson,william.anderson@yahoo.com,319-142-6187,Phoenix,AZ,85001,578.78,2025-04-16,Distributor,Midwest,DIV003,E-Commerce
+1035,Sharon,Clark,sharonclark@yahoo.com,659-652-3663,Jacksonville,FL,32099,538.31,2025-03-16,Online,Northeast,DIV004,Direct
+1950,Margaret,Moore,mmoore@aol.com,719-439-5842,New York,NY,10001,479.17,2025-10-17,Wholesale,Pacific Northwest,DIV005,E-Commerce
+1944,Karen,,karenlewis@aol.com,241-242-2914,Houston,TX,77001,315,2025-07-02,Distributor,West,DIV002,Direct
+1056,Carol,Thomas,carol.thomas@icloud.com,985-384-4206,Denver,CO,80201,32.32,2025-09-20,Mobile App,Pacific Northwest,DIV004,Retail
+1502,margaret,Roberts,margaret.roberts@icloud.com,882-469-7513,Nashville,TN,37201,156.47,2025-01-07,Distributor,Midwest,DIV004,B2B
+1359,Joseph,Torres,joseph.torres@gmail.com,945-554-7809,Seattle,WA,98101,805.65,2025-03-13,Wholesale,Southeast,DIV004,Direct
+1612,James,Moore,jamesmoore@hotmail.com,737-443-2083,San Antonio,TX,78201,933.82,2025-01-04,Mobile App,Pacific Northwest,DIV004,Retail
+1936,Charles,Wright,charleswright@icloud.com,927-681-3243,Philadelphia,PA,19101,207.26,2025-01-22,Distributor,Midwest,DIV005,Direct
+1309,Steven,Robinson,srobinson@icloud.com,674-329-1439,Indianapolis,IN,46201,793.31,2025-03-05,In-Store,Midwest,DIV003,Direct
+1914,Susan,Wright,swright@outlook.com,860-350-1466,Philadelphia,PA,19101,128.16,2025-07-05,Wholesale,Southwest,DIV001,Partner
+1579,Paul,Martin,paul.martin@aol.com,582-624-1287,Indianapolis,IN,46201,846.83,2025-06-13,In-Store,West,DIV001,E-Commerce
+1709,Linda,Lee,lindalee@gmail.com,569-529-6832,Philadelphia,PA,19101,58.23,2025-04-10,Wholesale,West,DIV001,Partner
+1187,Sarah,Miller,smiller@yahoo.com,530-993-6180,Nashville,TN,37201,828.55,2025-10-01,Wholesale,Midwest,DIV003,Retail
+1843,Michael,Smith,michaelsmith@icloud.com,581-897-8944,Phoenix,AZ,85001,0,2025-09-15,In-Store,Northeast,DIV002,E-Commerce
+1192,Kenneth,Turner,kturner@icloud.com,764-819-2867,San Francisco,CA,94101,423.17,2025-09-03,Online,Northeast,DIV002,Retail
+1707,Christopher,Wilson,cwilson@icloud.com,981-450-3821,Charlotte,NC,28201,712.8,2025-03-07,Online,Mid-Atlantic,DIV001,E-Commerce
+1737,Steven,Harris,steven.harris@outlook.com,753-758-6041,Indianapolis,IN,46201,504.69,2025-01-29,Distributor,Northeast,DIV001,B2B
+1033,Sharon,Green,sharongreen@gmail.com,321-359-1709,Denver,CO,,75.58,2025-11-05,Online,Pacific Northwest,DIV001,Retail
+1922,Elizabeth,Anderson,elizabeth.anderson@gmail.com,349-966-5544,Jacksonville,FL,32099,0,2025-11-10,Wholesale,Midwest,DIV002,Partner
+1583,Mary,Miller,mmiller@gmail.com,422-832-4138,Denver,CO,80201,964.62,2025-02-20,In-Store,Pacific Northwest,DIV005,Retail
+1942,Helen,Hill,hhill@aol.com,389-550-2758,Jacksonville,FL,32099,0,2025-09-21,Wholesale,Southwest,DIV004,E-Commerce
+1115,Sarah,Clark,sarah.clark@outlook.com,732-239-9123,Houston,TX,77001,764.65,2025-06-17,Wholesale,West,DIV001,Retail
+1394,Susan,Nguyen,susannguyen@aol.com,903-961-8273,Nashville,TN,37201,233.61,2025-02-05,Distributor,Midwest,DIV004,E-Commerce
+1821,Betty,Walker,bwalker@gmail.com,703-788-2723,Philadelphia,PA,19101,402.41,2025-03-15,Mobile App,Mid-Atlantic,DIV001,Retail
+1711,steven,Miller,stevenmiller@gmail.com,403-446-4281,Philadelphia,PA,19101,599.01,2025-09-13,Distributor,Northeast,DIV002,Direct
+1730,Jason,Carter,jcarter@hotmail.com,609-464-8795,Denver,CO,80201,670.01,2025-03-17,Distributor,Southwest,DIV005,B2B
+1285,John,Scott,johnscott@yahoo.com,644-693-4643,San Diego,CA,92101,892.9,2025-08-02,Mobile App,Southeast,DIV005,Retail
+1391,Carol,Clark,cclark@hotmail.com,838-198-2253,Phoenix,az,85001,664.47,2025-04-14,Mobile App,Pacific Northwest,DIV004,Direct
+1509,Donald,Green,donaldgreen@icloud.com,753-659-1289,Dallas,TX,75201,953.05,2025-08-19,Online,Southwest,DIV001,Direct
+1385,Karen,Nguyen,karen.nguyen@gmail.com,770-775-5965,Los Angeles,CA,90001,885.85,2025-06-09,In-Store,Southwest,DIV004,E-Commerce
+1499,Sarah,Davis,sarahdavis@aol.com,875-667-9837,Denver,CO,80201,576.49,2025-01-29,Distributor,West,DIV002,Partner
+1506,Steven,Hall,stevenhall@aol.com,984-391-6250,Nashville,TN,37201,70.81,2025-06-28,Mobile App,Northeast,DIV002,B2B
+1597,Jane,,janelewis@gmail.com,553-465-7749,Fort Worth,TX,76101,357.76,2025-10-31,In-Store,Southeast,DIV002,B2B
+1843,Michael,Smith,michaelsmith@icloud.com,581-897-8944,Phoenix,AZ,85001,0,2025-09-15,In-Store,Northeast,DIV002,E-Commerce
+1602,Jane,Clark,janeclark@icloud.com,530-686-2601,Fort Worth,TX,76101,810.24,2025-09-12,Online,Mid-Atlantic,DIV002,B2B
+1783,Sharon,Lewis,sharonlewis@icloud.com,572-546-4305,PHILADELPHIA,PA,19101,501.98,2025-05-28,Online,Pacific Northwest,DIV005,E-Commerce
+1304,Donna,Allen,dallen@icloud.com,294-834-2552,San Diego,CA,92101,595.95,2025-09-01,Wholesale,Northeast,DIV005,Partner
+1355,Mary,Robinson,maryrobinson@hotmail.com,879-652-6133,San Francisco,CA,94101,208.08,2025-08-21,Distributor,Midwest,DIV005,Partner
+1560,William,Johnson,wjohnson@yahoo.com,711-318-8656,San Francisco,CA,94101,275.26,2025-10-17,Mobile App,Pacific Northwest,DIV005,Direct
+1061,George,Thomas,george.thomas@outlook.com,446-254-5919,JACKSONVILLE,FL,32099,845.68,2025-07-31,Distributor,Midwest,DIV001,E-Commerce
+1293,Brian,Taylor,btaylor@aol.com,441-515-4907,Dallas,TX,75201,122.42,2025-08-26,In-Store,Northeast,DIV002,B2B
+1446,Paul,Williams,paulwilliams@yahoo.com,339-129-5233,San Antonio,TX,78201,791.77,2025-11-26,Wholesale,Mid-Atlantic,DIV005,E-Commerce
+1986,Laura,Flores,laura.flores@gmail.com,521-716-5882,New York,NY,10001,0,2025-03-13,Distributor,Midwest,DIV001,Direct
+1584,Kevin,Green,kgreen@icloud.com,794-893-9605,Houston,TX,77001,259.29,2025-06-10,Online,Southeast,DIV005,Retail
+1598,,Hall,kevin.hall@outlook.com,347-209-3869,San Diego,CA,92101,221.97,2025-10-29,Wholesale,Southwest,DIV004,B2B
+1843,Michael,Smith,michaelsmith@icloud.com,581-897-8944,Phoenix,AZ,85001,0,2025-09-15,In-Store,Northeast,DIV002,E-Commerce
+1115,Sarah,Clark,sarah.clark@outlook.com,732-239-9123,Houston,TX,77001,764.65,2025-06-17,Wholesale,West,DIV001,Retail
+1949,Maria,Robinson,mariarobinson@yahoo.com,415-980-3625,Chicago,IL,60601,916.73,2025-05-21,Wholesale,Pacific Northwest,DIV004,Retail
+1842,,Flores,jasonflores@aol.com,540-834-7920,Indianapolis,IN,46201,877.99,2025-09-17,Online,Pacific Northwest,DIV002,B2B
+1430,Carol,Baker,cbaker@outlook.com,228-880-1853,Austin,TX,73301,644.96,2025-01-02,In-Store,Mid-Atlantic,DIV004,E-Commerce
+1643,Joseph,Clark,joseph.clark@gmail.com,361-355-9460,Denver,CO,80201,716.43,2025-06-13,In-Store,Pacific Northwest,DIV005,Direct
+1894,Kevin,Wilson,kwilson@yahoo.com,807-946-6367,Dallas,TX,75201,801.53,2025-04-04,In-Store,Northeast,DIV004,B2B
+1386,Donna,White,dwhite@gmail.com,862-726-4747,New York,NY,10001,907.78,2025-01-26,Distributor,Southeast,DIV003,E-Commerce
+1439,Carol,Martin,carolmartin@gmail.com,374-680-2922,Phoenix,AZ,85001,0,2025-03-02,Mobile App,Southwest,DIV004,Direct
+1208,Elizabeth,Thompson,elizabeththompson@aol.com,000-000-0000,San Jose,CA,95101,857.77,2025-08-03,Mobile App,Southeast,DIV003,E-Commerce
+1811,Michael,Johnson,michael.johnson@hotmail.com,832-561-5068,San Jose,CA,95101,375.94,2025-03-10,Distributor,Northeast,DIV001,Direct
+1997,Michelle,Allen,michelleallen@aol.com,925-533-5198,San Antonio,TX,78201,82.33,2025-05-01,Mobile App,Northeast,DIV001,B2B
+1922,Elizabeth,Anderson,elizabeth.anderson@gmail.com,349-966-5544,Jacksonville,FL,32099,0,2025-11-10,Wholesale,Midwest,DIV002,Partner
+1737,Steven,Harris,steven.harris@outlook.com,753-758-6041,Indianapolis,IN,46201,504.69,2025-01-29,Distributor,Northeast,DIV001,B2B
+1511,Charles,Walker,charleswalker@hotmail.com,827-949-5321,Columbus,OH,43085,521.8,2025-03-19,Distributor,Southeast,DIV003,Direct
+1945,Sharon,Torres,sharon.torres@yahoo.com,255-335-4000,Los Angeles,CA,90001,45.5,2025-03-01,Wholesale,Southeast,DIV004,Direct
+1949,Donald,Williams,dwilliams@hotmail.com,774-596-8499,Charlotte,NC,28201,498.06,2025-04-15,In-Store,Northeast,DIV003,Retail
+1184,Barbara,Green,bgreen@icloud.com,799-317-1067,Dallas,TX,75201,530.76,2025-05-07,Mobile App,Southeast,DIV004,Retail
+1693,Patricia,,plewis@hotmail.com,896-224-7458,New York,NY,10001,379.82,2025-01-15,Online,Pacific Northwest,DIV003,E-Commerce
+1850,Anthony,Hill,anthonyhill@aol.com,808-773-1095,Charlotte,NC,28201,336.13,2025-06-16,Online,Mid-Atlantic,DIV005,Direct
+1751,Donna,Wilson,dwilson@gmail.com,489-430-1909,SAN ANTONIO,TX,78201,746.36,2025-07-24,Mobile App,West,DIV004,Retail
+1245,Jason,Allen,jason.allen@gmail.com,366-497-7592,Chicago,IL,60601,292.09,2025-08-10,In-Store,Northeast,DIV003,Direct
+1943,Joseph,Roberts,jroberts@hotmail.com,298-952-7020,Phoenix,AZ,85001,517.53,2025-05-18,Distributor,Southwest,DIV004,Direct
+1433,James,Scott,james.scott@icloud.com,644-745-7979,Jacksonville,FL,32099,102.02,2025-11-28,Mobile App,Midwest,DIV004,E-Commerce
+1158,Donald,Adams,donaldadams@gmail.com,679-547-2297,San Francisco,CA,94101,908.14,2025-12-17,Distributor,Midwest,DIV002,E-Commerce
+1861,Richard,,radams@hotmail.com,248-664-2253,Columbus,OH,43085,918.13,2025-07-31,Mobile App,Northeast,DIV005,Direct
+1676,Laura,,lauramitchell@hotmail.com,799-183-9248,Dallas,TX,75201,26.11,2025-01-24,Distributor,Southeast,DIV002,Direct
+1897,,Robinson,arobinson@icloud.com,665-875-8371,Austin,TX,73301,627.57,2025-04-05,Wholesale,Midwest,DIV002,E-Commerce
+1618,Maria,Miller,maria.miller@icloud.com,205-504-2911,Columbus,oh,43085,23.17,2025-09-07,Distributor,Southwest,DIV004,Partner
+1832,Edward,Walker,edward.walker@hotmail.com,328-238-1227,Fort Worth,TX,76101,198.89,2025-04-18,Online,Mid-Atlantic,DIV002,Retail
+1148,Brian,Harris,bharris@aol.com,000-000-0000,Columbus,OH,43085,772.02,2025-03-01,In-Store,Southwest,DIV004,Retail
+1245,Jason,Allen,jason.allen@gmail.com,366-497-7592,Chicago,IL,60601,292.09,2025-08-10,In-Store,Northeast,DIV003,Direct
+1867,Anthony,Scott,ascott@outlook.com,792-710-5764,Columbus,OH,43085,46.65,2025-11-10,Distributor,Southwest,DIV005,Partner
+1926,Donald,White,donald.white@icloud.com,632-690-6174,Los Angeles,CA,90001,557.72,2025-03-01,Wholesale,Mid-Atlantic,DIV004,Direct
+1961,Brian,Lee,brianlee@aol.com,221-265-5718,Charlotte,NC,,728.95,2025-09-17,Distributor,Midwest,DIV004,E-Commerce
+1930,Ronald,Lewis,rlewis@aol.com,679-234-5806,Nashville,TN,37201,725.77,2025-03-24,Distributor,Southwest,DIV003,Direct
+1289,Michelle,Garcia,michelle.garcia@yahoo.com,404-260-9063,Indianapolis,IN,46201,109.89,2025-04-18,Distributor,Southwest,DIV003,E-Commerce
+1018,Dorothy,Martin,dorothy.martin@aol.com,378-947-9248,Jacksonville,FL,32099,0,2025-11-13,Online,Midwest,DIV004,Retail
+1575,Jennifer,Flores,jenniferflores@hotmail.com,987-147-5382,Dallas,TX,75201,897.35,2025-08-13,Mobile App,West,DIV001,Retail
+1985,Sarah,Davis,SarahDavisicloud.com,304-943-1687,Houston,TX,77001,512.23,2025-07-05,In-Store,Mid-Atlantic,DIV001,E-Commerce
+1299,Anthony,Torres,atorres@outlook.com,301-257-6959,San Francisco,CA,94101,341.26,2025-08-01,In-Store,Northeast,DIV002,Direct
+1006,Richard,Hill,rhill@hotmail.com,375-187-5358,Austin,TX,73301,378.71,2025-09-29,Distributor,Midwest,DIV002,E-Commerce
+1233,Linda,,lindascott@outlook.com,728-913-6927,Columbus,OH,43085,944.3,2025-02-05,Distributor,Southeast,DIV001,Partner
+1322,Daniel,Taylor,danieltaylor@gmail.com,977-137-3473,Columbus,OH,43085,903.49,2025-08-03,Online,Mid-Atlantic,DIV005,B2B
+1697,Michelle,Baker,mbaker@aol.com,521-452-1129,San Jose,CA,95101,828.73,2025-08-17,Mobile App,West,DIV002,Direct
+1908,Sandra,Turner,sandraturner@aol.com,914-453-7627,Nashville,TN,37201,777.65,2025-06-21,Wholesale,Northeast,DIV001,Partner
+1736,Kevin,Wilson,kevinwilson@icloud.com,418-195-9383,San Francisco,CA,94101,556.27,2025-01-15,Mobile App,Midwest,DIV002,Retail
+1575,Jennifer,Flores,jenniferflores@hotmail.com,987-147-5382,Dallas,TX,75201,897.35,2025-08-13,Mobile App,West,DIV001,Retail
+1963,Robert,Torres,rtorres@icloud.com,205-564-6553,San Jose,CA,95101,983.12,2025-04-30,Mobile App,West,DIV005,Partner
+1291,Sharon,,sharonmitchell@aol.com,732-855-5057,Phoenix,AZ,85001,114.17,2025-08-21,Mobile App,West,DIV002,B2B
+1728,Paul,Wright,paul.wright@gmail.com,635-233-8802,Chicago,IL,60601,222.64,2025-10-29,Online,Midwest,DIV005,Direct
+1797,Daniel,Martin,DanielMartinoutlook.com,633-550-9020,Denver,CO,80201,734.4,2025-09-16,Distributor,Pacific Northwest,DIV002,E-Commerce
+1728,Mark,Wilson,mark.wilson@icloud.com,911-317-8461,San Francisco,CA,94101,478.62,2025-11-05,In-Store,West,DIV003,Retail
+1112,Robert,Walker,robert.walker@hotmail.com,735-256-2929,Denver,CO,80201,377.75,2025-01-15,Wholesale,Midwest,DIV003,Direct
+1145,Steven,Wright,stevenwright@hotmail.com,420-287-9008,Los Angeles,CA,90001,12.06,2025-08-02,Mobile App,Midwest,DIV001,Retail
+1317,Donna,Torres,donnatorres@outlook.com,937-953-3175,Austin,TX,73301,764.33,2025-12-08,Mobile App,Mid-Atlantic,DIV004,Direct
+1887,Laura,Clark,lclark@icloud.com,838-519-7344,Chicago,IL,60601,240.49,2025-12-10,Distributor,Midwest,DIV005,Retail
+1753,Charles,Garcia,charles.garcia@aol.com,785-745-6060,Philadelphia,PA,19101,565.43,2025-04-09,Online,Mid-Atlantic,DIV005,Retail
+1554,donna,Brown,donna.brown@icloud.com,968-587-9235,Denver,CO,80201,897.9,2025-01-10,Online,Mid-Atlantic,DIV005,E-Commerce
+1210,Richard,Carter,rcarter@gmail.com,000-000-0000,Charlotte,NC,28201,593,2025-08-12,Distributor,Pacific Northwest,DIV001,B2B
+1024,George,Clark,george.clark@hotmail.com,317-201-9876,Fort Worth,tx,76101,176.47,2025-03-20,In-Store,Southeast,DIV003,Retail
+1417,Ronald,Taylor,ronaldtaylor@icloud.com,385-127-1958,LOS ANGELES,CA,90001,305.04,2025-06-15,Online,Midwest,DIV002,Direct
+1964,Robert,Brown,rbrown@yahoo.com,800-342-9076,San Antonio,TX,78201,513.54,2025-02-01,Mobile App,Southwest,DIV001,B2B
+1566,Nancy,Jones,nancyjones@gmail.com,848-339-1305,Indianapolis,IN,46201,276.47,2025-10-12,Mobile App,Mid-Atlantic,DIV001,E-Commerce
+1128,Joseph,Mitchell,joseph.mitchell@outlook.com,851-612-4333,Columbus,OH,43085,785.05,2025-05-06,In-Store,Midwest,DIV005,E-Commerce
+1433,Kenneth,Torres,kennethtorres@gmail.com,835-396-3742,Los Angeles,CA,90001,10.54,2025-12-15,Distributor,Midwest,DIV005,B2B
+1359,Ruth,Jackson,ruthjackson@icloud.com,246-265-9750,Denver,CO,80201,567.45,2025-03-13,Wholesale,Northeast,DIV004,Retail
+1286,Paul,Jackson,pauljackson@icloud.com,898-450-5282,Nashville,TN,,979.84,2025-06-24,Distributor,Midwest,DIV002,B2B
+1982,Carol,Lewis,carol.lewis@aol.com,861-102-8807,New York,NY,10001,14.24,2025-10-12,Online,Mid-Atlantic,DIV002,Direct
+1720,Donald,Allen,dallen@gmail.com,866-179-9825,Seattle,WA,98101,40.64,2025-07-12,Distributor,Mid-Atlantic,DIV001,B2B
+1366,Lisa,,lisaanderson@gmail.com,579-297-8283,New York,NY,10001,19.27,2025-04-09,Online,Pacific Northwest,DIV003,B2B
+1628,Ruth,Robinson,ruthrobinson@yahoo.com,571-137-5599,San Diego,CA,92101,497.91,2025-11-23,Mobile App,Southeast,DIV001,E-Commerce
+1890,Charles,Mitchell,charles.mitchell@outlook.com,765-298-3875,San Francisco,CA,94101,74.71,2025-05-13,In-Store,Mid-Atlantic,DIV001,E-Commerce
+1876,Jennifer,Adams,jadams@yahoo.com,223-809-9731,Dallas,TX,75201,618.31,2025-11-25,Mobile App,Southwest,DIV001,Direct
+1665,bob,Clark,bobclark@outlook.com,324-796-9491,Columbus,OH,43085,471.92,2025-01-25,Wholesale,West,DIV001,E-Commerce
+1430,Sandra,Torres,sandratorres@gmail.com,399-442-2340,Austin,TX,73301,881.3,2025-02-08,Online,Mid-Atlantic,DIV002,Direct
+1201,Barbara,,blewis@gmail.com,840-199-1456,San Jose,CA,95101,485.17,2025-05-07,Online,West,DIV003,B2B
+1244,Thomas,Brown,thomas.brown@icloud.com,274-894-8184,Austin,TX,73301,766.46,2025-02-01,Distributor,West,DIV001,Retail
+1386,Margaret,Jones,margaretjones@gmail.com,256-408-8075,Phoenix,AZ,85001,75.13,2025-07-15,Online,West,DIV001,B2B
+1632,Sarah,Wright,swright@icloud.com,838-110-8428,San Diego,CA,92101,390.08,2025-06-23,Distributor,West,DIV005,Retail
+1691,Jane,Nguyen,jnguyen@hotmail.com,397-210-2682,San Francisco,CA,94101,22.17,2025-03-06,Online,West,DIV002,Partner
+1262,Dorothy,Wright,dwright@aol.com,655-290-4983,Indianapolis,IN,46201,146.3,2025-10-27,Online,Northeast,DIV002,B2B
+1982,Brian,Lee,blee@icloud.com,994-249-3415,San Jose,CA,95101,474.83,2025-01-05,Mobile App,Midwest,DIV003,B2B
+1673,Ronald,Moore,rmoore@yahoo.com,000-000-0000,Los Angeles,CA,90001,427.84,2025-06-24,In-Store,Southeast,DIV002,Retail
+1487,Michelle,Nguyen,michellenguyen@aol.com,792-679-6499,Nashville,TN,37201,619.94,2025-08-21,Distributor,Midwest,DIV002,Retail
+1932,Alice,Flores,aflores@gmail.com,428-809-4772,San Diego,CA,,471.87,2025-07-12,In-Store,Southeast,DIV004,B2B
+1188,John,Walker,johnwalker@gmail.com,230-668-2887,New York,NY,10001,150.98,2025-01-23,Distributor,Southeast,DIV005,B2B
+1203,Elizabeth,Young,elizabethyoung@yahoo.com,936-278-6567,Philadelphia,PA,19101,849.06,2025-04-01,In-Store,Southeast,DIV002,Retail
+1932,Patricia,Johnson,pjohnson@outlook.com,313-446-4444,Phoenix,AZ,85001,312.02,2025-09-27,In-Store,Midwest,DIV003,E-Commerce
+1638,Paul,Jones,paul.jones@yahoo.com,394-296-9725,Houston,TX,77001,0,2025-11-22,Wholesale,Midwest,DIV005,Direct
+1047,Sarah,Turner,sturner@yahoo.com,501-908-3434,Denver,CO,80201,334.4,2025-09-18,Online,Mid-Atlantic,DIV003,E-Commerce
+1907,Donald,Jackson,djackson@outlook.com,000-000-0000,Chicago,IL,60601,513.53,2025-08-26,Mobile App,Midwest,DIV004,Partner
+1729,Christopher,Adams,christopheradams@aol.com,685-374-7569,Indianapolis,IN,46201,641.72,2025-04-23,Mobile App,Mid-Atlantic,DIV001,E-Commerce
+1462,Richard,Allen,richardallen@hotmail.com,586-685-3575,San Antonio,TX,78201,936.14,2025-03-10,Wholesale,Midwest,DIV005,Retail
+1302,Karen,Adams,kadams@yahoo.com,242-576-9392,Jacksonville,FL,32099,624.91,2025-07-29,Distributor,Southwest,DIV004,Direct
+1509,Margaret,Thompson,margaret.thompson@gmail.com,652-339-5351,Fort Worth,TX,76101,648.9,2025-09-20,Wholesale,Northeast,DIV003,Partner
+1080,Charles,White,charles.white@gmail.com,568-139-9946,Houston,TX,77001,208.3,2025-06-04,In-Store,Mid-Atlantic,DIV003,B2B
+1786,Ronald,Thompson,rthompson@aol.com,341-975-9898,San Antonio,TX,78201,913.26,2025-06-27,Online,Pacific Northwest,DIV003,B2B
+1413,Daniel,Carter,dcarter@outlook.com,724-879-3445,New York,NY,10001,866.81,2025-04-30,In-Store,Southeast,DIV002,Direct
+1753,Charles,Garcia,charles.garcia@aol.com,785-745-6060,Philadelphia,PA,19101,565.43,2025-04-09,Online,Mid-Atlantic,DIV005,Retail
+1591,Linda,Robinson,lrobinson@outlook.com,563-447-4694,New York,NY,10001,424.96,2025-06-16,Distributor,Pacific Northwest,DIV005,B2B
+1581,Alice,Wilson,awilson@hotmail.com,000-000-0000,Phoenix,AZ,85001,980.37,2025-07-17,In-Store,Southwest,DIV001,Partner
+1111,Thomas,Mitchell,thomasmitchell@aol.com,000-000-0000,Charlotte,NC,28201,678.14,2025-01-14,In-Store,Northeast,DIV005,Direct
+1071,Lisa,Young,lisayoung@yahoo.com,875-636-2146,San Antonio,TX,78201,460.12,2025-06-17,Wholesale,West,DIV001,E-Commerce
+1420,Daniel,Taylor,dtaylor@yahoo.com,628-589-2126,Houston,TX,77001,395.1,2025-08-10,In-Store,Southeast,DIV002,B2B
+1680,Betty,Taylor,bettytaylor@icloud.com,801-307-9232,Nashville,TN,37201,719.6,2025-03-15,Distributor,Midwest,DIV002,Retail
+1844,Daniel,Roberts,danielroberts@icloud.com,782-602-8539,San Diego,CA,92101,468.07,2025-11-27,Online,Mid-Atlantic,DIV001,B2B
+1467,Dorothy,Robinson,dorothy.robinson@icloud.com,625-355-3942,Fort Worth,TX,76101,900.96,2025-12-24,Distributor,Southwest,DIV004,E-Commerce
+1402,Michelle,Williams,michellewilliams@yahoo.com,843-650-5782,San Diego,CA,92101,669.99,2025-07-30,Online,Mid-Atlantic,DIV002,Direct
+1566,Robert,Walker,rwalker@gmail.com,984-898-6341,Chicago,IL,60601,416,2025-01-23,In-Store,Midwest,DIV002,Partner
+1074,Ruth,Nguyen,rnguyen@hotmail.com,608-976-4185,Fort Worth,TX,76101,402.71,2025-06-17,Online,Midwest,DIV001,E-Commerce
+1475,Donald,Nguyen,dnguyen@gmail.com,872-348-8171,Chicago,IL,60601,148.85,2025-01-10,Wholesale,Pacific Northwest,DIV002,E-Commerce
+1181,Susan,Davis,susandavis@aol.com,372-179-1183,Seattle,WA,98101,680.61,2025-04-21,In-Store,Southwest,DIV003,E-Commerce
+1914,Ronald,Nelson,rnelson@outlook.com,248-956-9566,San Antonio,TX,78201,644.6,2025-01-27,Online,Southwest,DIV003,Direct
+1049,Jason,Hall,jasonhall@yahoo.com,444-304-2497,San Antonio,TX,78201,25.88,2025-12-15,Online,Northeast,DIV003,E-Commerce
+1225,Patricia,Taylor,patriciataylor@gmail.com,724-210-6359,Philadelphia,PA,19101,329.45,2025-07-22,In-Store,West,DIV002,Partner
+1123,,Jackson,jenniferjackson@hotmail.com,377-115-7588,Houston,TX,77001,657.45,2025-04-23,Online,Southwest,DIV002,Direct
+1834,Charles,Turner,charles.turner@gmail.com,423-520-5940,JACKSONVILLE,FL,32099,769.87,2025-03-29,Distributor,Northeast,DIV005,Partner
+1680,Betty,Taylor,bettytaylor@icloud.com,801-307-9232,Nashville,TN,37201,719.6,2025-03-15,Distributor,Midwest,DIV002,Retail
+1459,Lisa,Green,lgreen@icloud.com,921-113-4811,San Diego,CA,92101,31,2025-05-05,Online,Midwest,DIV002,Direct
+1061,Linda,Walker,LindaWalkerhotmail.com,355-484-4348,Indianapolis,IN,46201,645.62,2025-06-18,In-Store,Mid-Atlantic,DIV005,Direct
+1325,,Williams,bwilliams@outlook.com,495-868-1388,San Francisco,CA,94101,236.72,2025-10-04,Wholesale,Midwest,DIV002,E-Commerce
+1939,,Harris,sharonharris@icloud.com,733-429-4007,San Diego,CA,92101,447.94,2025-04-09,Online,Northeast,DIV004,Retail
+1144,David,Wilson,dwilson@yahoo.com,762-951-4348,Chicago,IL,60601,243.95,2025-03-26,Online,Southwest,DIV004,B2B
+1250,Paul,Anderson,paulanderson@yahoo.com,492-690-8344,Nashville,TN,37201,968.05,2025-07-04,In-Store,Midwest,DIV004,Retail
+1171,Betty,Torres,btorres@icloud.com,952-543-3553,Columbus,OH,43085,821.41,2025-02-12,Distributor,Northeast,DIV004,Direct
+1943,Joseph,Roberts,jroberts@yahoo.com,944-279-5215,Seattle,WA,98101,386.65,2025-10-15,Wholesale,Southwest,DIV003,Direct
+1073,Thomas,Wilson,thomas.wilson@yahoo.com,394-104-1210,Indianapolis,IN,46201,863.04,2025-07-22,Wholesale,Southwest,DIV004,Direct
+1382,Lisa,Flores,lflores@aol.com,272-518-1636,San Jose,CA,95101,992.55,2025-04-10,Online,Southwest,DIV005,E-Commerce
+1111,Thomas,Mitchell,thomasmitchell@aol.com,000-000-0000,Charlotte,NC,28201,678.14,2025-01-14,In-Store,Northeast,DIV005,Direct
+1646,Anthony,Johnson,ajohnson@hotmail.com,666-797-3414,Phoenix,AZ,85001,261.75,2025-03-01,Mobile App,West,DIV002,Retail
+1659,Anthony,Hall,ahall@aol.com,282-630-4093,Fort Worth,tx,76101,877.25,2025-12-21,In-Store,Pacific Northwest,DIV004,B2B
+1990,Sandra,Hall,shall@hotmail.com,621-870-2456,Denver,CO,80201,118.18,2025-05-18,Mobile App,Pacific Northwest,DIV003,E-Commerce
+1952,Kevin,Allen,kevin.allen@gmail.com,000-000-0000,San Jose,CA,95101,79.14,2025-08-09,Distributor,West,DIV004,B2B
+1383,William,Wilson,william.wilson@outlook.com,714-212-8383,San Antonio,TX,78201,571.42,2025-04-04,In-Store,Southeast,DIV002,Retail
+1196,Maria,Wright,mwright@aol.com,311-989-3721,Charlotte,NC,28201,89.01,2025-02-02,Online,Southwest,DIV001,B2B
+1599,Richard,Hill,richard.hill@aol.com,209-162-5359,Indianapolis,IN,,754.28,2025-02-19,Online,Mid-Atlantic,DIV005,Retail
+1810,John,Hall,johnhall@icloud.com,697-584-6521,Nashville,TN,37201,608.33,2025-05-03,Wholesale,Midwest,DIV003,B2B
+1681,Daniel,Hall,DanielHallgmail.com,538-925-2641,Nashville,TN,37201,13.05,2025-11-05,Distributor,Mid-Atlantic,DIV002,Retail
+1543,Charles,Harris,charris@outlook.com,902-774-8785,Jacksonville,FL,32099,519.76,2025-11-21,In-Store,Northeast,DIV003,Retail
+1046,Kevin,Clark,kclark@yahoo.com,696-509-2333,Charlotte,NC,28201,354.85,2025-05-31,Distributor,Mid-Atlantic,DIV001,Direct
+1729,Michael,Adams,madams@aol.com,232-230-9158,Denver,CO,80201,798.85,2025-03-28,Wholesale,Pacific Northwest,DIV005,Direct
+1977,Robert,Hill,robert.hill@yahoo.com,416-274-2465,Seattle,WA,98101,0,2025-05-24,Online,Southeast,DIV003,Direct
+1263,,Hill,sharon.hill@aol.com,747-748-9060,Houston,TX,77001,99.54,2025-11-04,Wholesale,Pacific Northwest,DIV002,Partner
+1351,Lisa,Hall,lisa.hall@outlook.com,428-365-2895,Seattle,WA,98101,298.07,2025-04-07,Online,Northeast,DIV003,Partner
+1118,Donna,Walker,donnawalker@hotmail.com,790-854-1027,Phoenix,AZ,85001,317.69,2025-08-05,Mobile App,West,DIV002,Direct
+1373,Ronald,Wilson,rwilson@aol.com,804-327-2746,San Francisco,CA,94101,401.36,2025-03-16,Mobile App,Pacific Northwest,DIV004,B2B
+1303,Jennifer,Flores,jflores@yahoo.com,490-249-1562,Charlotte,NC,28201,602.89,2025-12-28,Wholesale,West,DIV001,B2B
+1646,David,Flores,davidflores@aol.com,260-929-6458,San Jose,CA,95101,161.18,2025-04-02,In-Store,Pacific Northwest,DIV002,Retail
+1744,Daniel,Robinson,drobinson@gmail.com,601-445-7921,Philadelphia,PA,19101,681.12,2025-02-06,Wholesale,Pacific Northwest,DIV004,Direct
+1289,Susan,Thomas,susan.thomas@outlook.com,334-431-1886,Seattle,WA,98101,851.31,2025-03-12,Wholesale,Southwest,DIV002,Partner
+1494,Susan,Moore,smoore@yahoo.com,400-852-1149,San Antonio,TX,78201,368.6,2025-08-07,Mobile App,Northeast,DIV002,Direct
+1834,Charles,Turner,charles.turner@gmail.com,423-520-5940,JACKSONVILLE,FL,32099,769.87,2025-03-29,Distributor,Northeast,DIV005,Partner
+1406,Donald,Robinson,DonaldRobinsonyahoo.com,963-484-2468,Nashville,TN,37201,779.95,2025-01-06,Distributor,Midwest,DIV004,B2B
+1084,Robert,Flores,robert.flores@yahoo.com,800-686-8856,San Francisco,CA,94101,280.99,2025-07-16,Online,Pacific Northwest,DIV005,E-Commerce
+1660,Michelle,Scott,michelle.scott@icloud.com,301-433-2040,San Jose,CA,95101,716.63,2025-07-21,Mobile App,Southeast,DIV004,Retail
+1549,George,Flores,gflores@icloud.com,751-830-3033,Chicago,IL,60601,755.97,2025-11-03,In-Store,Mid-Atlantic,DIV001,E-Commerce
+1005,Kenneth,Torres,kenneth.torres@gmail.com,331-688-4378,Austin,TX,73301,656.11,2025-02-13,Online,West,DIV003,Retail
+1518,Joseph,Walker,JosephWalkeryahoo.com,873-100-5068,Seattle,WA,98101,307.59,2025-08-16,Mobile App,Pacific Northwest,DIV003,Partner
+1502,Michelle,Clark,mclark@hotmail.com,751-622-4438,San Francisco,ca,94101,691.05,2025-03-14,Online,Southeast,DIV001,E-Commerce
+1852,David,Wilson,david.wilson@icloud.com,805-467-5544,NASHVILLE,TN,37201,137.21,2025-05-11,Mobile App,Southwest,DIV001,Partner
+1665,Barbara,Allen,barbaraallen@gmail.com,892-535-3346,Charlotte,NC,28201,540.55,2025-07-10,Online,Mid-Atlantic,DIV003,E-Commerce
+1663,Helen,Roberts,helen.roberts@outlook.com,523-906-8104,Philadelphia,PA,19101,385.15,2025-03-05,Mobile App,Southeast,DIV001,B2B
+1700,Kenneth,,kwright@hotmail.com,291-471-6464,Chicago,IL,60601,780.29,2025-01-06,In-Store,Pacific Northwest,DIV002,B2B
+1992,Jennifer,Hall,jennifer.hall@gmail.com,739-845-6022,Houston,TX,77001,592.94,2025-12-25,Distributor,Northeast,DIV005,B2B
+1288,Kenneth,Thompson,kenneth.thompson@gmail.com,374-425-7382,Nashville,TN,37201,188.87,2025-09-02,Mobile App,West,DIV005,Direct
+1265,John,Green,john.green@aol.com,346-487-5380,Phoenix,AZ,85001,62.34,2025-08-03,Wholesale,Mid-Atlantic,DIV002,Partner
+1187,Karen,Lee,karenlee@icloud.com,482-538-9529,Charlotte,NC,28201,942.26,2025-07-28,In-Store,Midwest,DIV001,B2B
+1865,James,Garcia,james.garcia@aol.com,295-269-1940,Chicago,IL,60601,93.74,2025-08-06,Wholesale,West,DIV004,Retail
+1954,Laura,Wilson,lwilson@outlook.com,901-793-9722,Indianapolis,IN,46201,700.9,2025-01-04,Distributor,Northeast,DIV005,E-Commerce
+1719,,Lee,slee@aol.com,740-800-1693,San Diego,CA,92101,611.3,2025-03-31,In-Store,Mid-Atlantic,DIV005,E-Commerce
+1859,Linda,Green,lindagreen@gmail.com,707-488-3793,Jacksonville,fl,32099,379.55,2025-03-02,Online,Midwest,DIV002,Partner
+1494,Susan,Martin,smartin@gmail.com,846-682-7449,San Antonio,TX,78201,225.29,2025-08-26,Wholesale,Mid-Atlantic,DIV005,Retail
+1289,Susan,Thomas,susan.thomas@outlook.com,334-431-1886,Seattle,WA,98101,851.31,2025-03-12,Wholesale,Southwest,DIV002,Partner
+1503,Elizabeth,Garcia,elizabeth.garcia@icloud.com,620-226-8985,San Francisco,ca,94101,16.84,2025-07-11,Wholesale,Southeast,DIV004,Direct
+1438,William,Nelson,williamnelson@gmail.com,872-959-8198,Dallas,TX,75201,170.22,2025-07-03,Wholesale,Mid-Atlantic,DIV004,Retail
+1726,Elizabeth,Davis,elizabeth.davis@hotmail.com,336-504-7898,San Antonio,TX,78201,746.48,2025-12-07,Online,Southeast,DIV002,Direct
+1121,Nancy,Flores,nflores@outlook.com,931-230-6322,Seattle,WA,98101,753.58,2025-02-26,Distributor,West,DIV004,E-Commerce
+1811,Jane,Wilson,jwilson@hotmail.com,213-885-4874,Phoenix,AZ,85001,61.52,2025-08-11,Wholesale,Southwest,DIV005,Retail
+1288,Donald,Garcia,dgarcia@yahoo.com,356-846-9376,Columbus,OH,43085,0,2025-12-25,Wholesale,Pacific Northwest,DIV001,B2B
+1840,Paul,Thomas,PaulThomasaol.com,917-847-9230,Indianapolis,IN,46201,614.99,2025-04-28,In-Store,Pacific Northwest,DIV005,E-Commerce
+1410,Alice,Thompson,alicethompson@yahoo.com,218-731-4270,San Antonio,TX,78201,100.03,2025-06-06,Online,Southwest,DIV004,Partner
+1236,Jennifer,Lewis,jennifer.lewis@outlook.com,722-537-1846,Columbus,OH,43085,311.25,2025-12-31,Wholesale,Midwest,DIV003,B2B
+1327,Bob,Anderson,bob.anderson@gmail.com,000-000-0000,Los Angeles,CA,90001,219.86,2025-08-09,Distributor,Midwest,DIV005,Retail
+1971,Donald,Walker,donald.walker@hotmail.com,299-785-1223,Austin,TX,73301,686.13,2025-10-29,In-Store,Midwest,DIV003,B2B
+1380,Richard,Thompson,richardthompson@icloud.com,289-208-3137,San Antonio,TX,78201,633.26,2025-12-02,Mobile App,Northeast,DIV001,Partner
+1197,Anthony,Torres,atorres@gmail.com,833-451-5939,Houston,TX,,728.1,2025-03-07,In-Store,West,DIV002,Retail
+1563,Anthony,Martin,anthonymartin@hotmail.com,659-744-2923,Seattle,WA,98101,911.74,2025-09-15,Online,Southwest,DIV004,Partner
+1170,Carol,Thompson,carol.thompson@hotmail.com,000-000-0000,Phoenix,AZ,85001,743.31,2025-02-08,Distributor,Southwest,DIV005,Partner
+1859,Linda,Green,lindagreen@gmail.com,707-488-3793,Jacksonville,fl,32099,379.55,2025-03-02,Online,Midwest,DIV002,Partner
+1466,Helen,Adams,helen.adams@hotmail.com,503-825-5399,Dallas,tx,75201,556.63,2025-05-02,In-Store,Southeast,DIV001,Partner
+1654,Michael,Thompson,michael.thompson@hotmail.com,857-354-4440,Phoenix,AZ,85001,539.25,2025-07-08,Online,Mid-Atlantic,DIV003,Partner
+1969,Anthony,Baker,anthony.baker@aol.com,618-726-5831,Dallas,TX,75201,331.39,2025-04-23,Online,Mid-Atlantic,DIV001,B2B
+1286,William,Martin,wmartin@icloud.com,996-899-2743,New York,NY,,725.38,2025-10-10,Distributor,Mid-Atlantic,DIV003,Partner
+1452,Jennifer,Clark,jclark@yahoo.com,844-927-7479,Dallas,TX,75201,164.09,2025-03-17,In-Store,Mid-Atlantic,DIV004,B2B
+1095,Donald,Anderson,donald.anderson@yahoo.com,000-000-0000,Charlotte,NC,28201,943.92,2025-06-08,In-Store,Mid-Atlantic,DIV003,Retail
+1181,Daniel,Roberts,daniel.roberts@gmail.com,273-536-5018,San Antonio,TX,78201,460.47,2025-01-07,Distributor,Northeast,DIV005,E-Commerce
+1386,Lisa,Johnson,ljohnson@gmail.com,244-235-5068,Houston,TX,77001,772.42,2025-01-05,Wholesale,Southeast,DIV005,Retail
+1108,,Lewis,sandra.lewis@yahoo.com,691-877-8279,Chicago,IL,60601,817.31,2025-05-05,Wholesale,Midwest,DIV004,E-Commerce
+1708,Charles,Nelson,charles.nelson@gmail.com,305-657-5861,Houston,TX,77001,0,2025-01-13,Distributor,Southeast,DIV001,E-Commerce
+1394,,Lee,mlee@yahoo.com,593-803-2841,San Jose,CA,95101,496.9,2025-07-02,Online,Southeast,DIV001,B2B
+1341,Robert,Walker,rwalker@gmail.com,354-282-8022,Chicago,IL,60601,535.18,2025-12-08,Mobile App,Southeast,DIV004,E-Commerce
+1639,Susan,Lee,SusanLeehotmail.com,877-477-5348,Houston,TX,77001,812.61,2025-12-02,Online,Pacific Northwest,DIV001,E-Commerce
+1151,Lisa,Torres,lisa.torres@gmail.com,791-537-5562,Indianapolis,IN,46201,153.22,2025-06-30,Wholesale,Southeast,DIV002,Direct
+1434,Betty,Wright,bettywright@aol.com,341-921-5028,Nashville,TN,37201,389.35,2025-09-10,Mobile App,Southwest,DIV005,Partner
+1841,Jennifer,Hall,jhall@icloud.com,631-639-4593,Chicago,IL,60601,706.06,2025-01-09,In-Store,Midwest,DIV001,E-Commerce
+1485,Linda,Davis,lindadavis@hotmail.com,997-938-3283,Los Angeles,CA,,301.75,2025-05-05,In-Store,Pacific Northwest,DIV005,Direct
+1229,Bob,Wilson,bwilson@aol.com,346-486-1431,Houston,TX,77001,699.16,2025-12-06,Distributor,Midwest,DIV001,Retail
+1488,Carol,Taylor,caroltaylor@yahoo.com,344-180-5014,New York,NY,10001,86.29,2025-04-04,Mobile App,Pacific Northwest,DIV004,E-Commerce
+1143,Kevin,Adams,kevinadams@outlook.com,939-445-8274,San Jose,CA,95101,783.58,2025-01-31,Online,Midwest,DIV001,E-Commerce
+1032,Carol,Anderson,carol.anderson@yahoo.com,605-952-7940,San Francisco,ca,94101,683.1,2025-09-14,Distributor,West,DIV003,Partner
+1232,Paul,Taylor,ptaylor@gmail.com,586-228-4471,Dallas,TX,75201,406.4,2025-10-14,Online,Southeast,DIV004,E-Commerce
+1079,Michelle,,mnguyen@hotmail.com,857-514-7233,Indianapolis,IN,46201,173.18,2025-05-19,Wholesale,Mid-Atlantic,DIV004,E-Commerce
+1079,Christopher,Roberts,christopher.roberts@gmail.com,488-266-9873,Austin,TX,73301,115.4,2025-04-07,In-Store,West,DIV001,B2B
+1653,Alice,Harris,aharris@gmail.com,778-145-8926,Dallas,TX,75201,55.22,2025-07-02,Wholesale,Northeast,DIV003,Retail
+1981,Daniel,Green,danielgreen@hotmail.com,943-464-3122,San Antonio,TX,78201,705.63,2025-02-21,Online,Midwest,DIV004,Partner
+1793,Michael,,michaeljohnson@outlook.com,800-989-1612,Denver,CO,80201,297.22,2025-11-17,In-Store,Mid-Atlantic,DIV004,Retail
+1735,Jennifer,Jackson,jennifer.jackson@aol.com,713-628-9573,Phoenix,AZ,85001,930.92,2025-05-29,Wholesale,Southwest,DIV002,B2B
+1876,Paul,Williams,PaulWilliamsyahoo.com,825-721-2228,Fort Worth,TX,76101,958.44,2025-01-08,Mobile App,Mid-Atlantic,DIV004,Retail
+1891,Joseph,Baker,joseph.baker@outlook.com,665-421-3780,Chicago,IL,60601,934.72,2025-07-06,In-Store,Northeast,DIV003,Partner
+1072,William,Nguyen,williamnguyen@outlook.com,981-997-8242,Dallas,TX,75201,653.79,2025-01-21,In-Store,Northeast,DIV005,Direct
+1293,Daniel,Wright,daniel.wright@aol.com,651-475-9396,Nashville,TN,37201,846.39,2025-09-17,Wholesale,Midwest,DIV001,Direct
+1898,Ronald,Williams,ronald.williams@aol.com,958-909-5011,Nashville,TN,37201,702.75,2025-05-29,Mobile App,Northeast,DIV002,Retail
+1583,Daniel,Jones,danieljones@outlook.com,000-000-0000,San Diego,CA,92101,471.22,2025-02-13,Mobile App,Pacific Northwest,DIV004,Retail
+1110,Daniel,Scott,danielscott@outlook.com,266-424-6610,San Antonio,TX,78201,996.47,2025-05-23,Distributor,Southeast,DIV004,Retail
+1558,Michael,Hill,michael.hill@aol.com,527-681-1513,Phoenix,AZ,,987.93,2025-08-31,Distributor,Northeast,DIV003,Direct
+1216,Jane,Scott,jscott@hotmail.com,380-185-3322,Dallas,TX,75201,78.57,2025-08-03,Distributor,Northeast,DIV003,Direct
+1685,Maria,Anderson,mariaanderson@gmail.com,550-871-5864,Los Angeles,CA,90001,172.89,2025-10-02,Wholesale,Southwest,DIV004,Direct
+1164,Michelle,Scott,MichelleScottaol.com,598-942-1162,Jacksonville,FL,32099,565.3,2025-11-12,Mobile App,Southeast,DIV001,Partner
+1680,Laura,Clark,lauraclark@yahoo.com,351-611-6184,New York,NY,10001,122.47,2025-08-19,Distributor,Midwest,DIV005,Retail
+1877,Linda,Torres,linda.torres@gmail.com,423-863-4074,Denver,CO,,425.97,2025-07-13,Mobile App,Pacific Northwest,DIV002,Partner
+1214,Elizabeth,Mitchell,elizabethmitchell@hotmail.com,216-409-6029,New York,NY,10001,507.06,2025-07-31,Online,Mid-Atlantic,DIV004,Direct
+1360,Sandra,Scott,sandra.scott@hotmail.com,380-569-8018,San Francisco,CA,94101,379.39,2025-08-12,Mobile App,West,DIV002,Partner
+1865,Sharon,Scott,sscott@aol.com,301-189-2700,San Jose,CA,95101,98.74,2025-09-12,Online,West,DIV004,Retail
+1638,Sandra,,smiller@icloud.com,233-783-5749,Charlotte,NC,28201,853.19,2025-07-15,In-Store,Southeast,DIV004,Partner
+1876,Betty,Davis,bettydavis@outlook.com,860-820-7484,JACKSONVILLE,FL,32099,17.53,2025-05-26,Wholesale,Pacific Northwest,DIV002,Partner
+1674,Maria,Robinson,maria.robinson@aol.com,204-524-1535,Columbus,OH,43085,25.37,2025-11-04,In-Store,Pacific Northwest,DIV003,Partner
+1174,Donna,Scott,donnascott@icloud.com,397-731-7444,San Diego,CA,92101,830.26,2025-03-30,Mobile App,Southwest,DIV002,Direct
+1325,George,Taylor,GeorgeTayloryahoo.com,927-920-3069,Columbus,OH,43085,509.21,2025-10-11,Mobile App,Pacific Northwest,DIV004,B2B
+1330,David,Garcia,davidgarcia@gmail.com,211-743-3507,Chicago,IL,60601,37.54,2025-01-13,Mobile App,Northeast,DIV005,Direct
+1133,,Lee,mlee@yahoo.com,427-404-4175,Philadelphia,PA,19101,540.06,2025-12-04,In-Store,Mid-Atlantic,DIV004,B2B
+1084,Michael,Johnson,michael.johnson@gmail.com,670-710-3010,Denver,CO,80201,116.01,2025-02-09,Wholesale,Midwest,DIV002,Retail
+1370,David,Allen,david.allen@outlook.com,623-175-8971,Houston,TX,77001,959.63,2025-06-10,Online,Southeast,DIV004,Direct
+1461,Barbara,Anderson,barbara.anderson@gmail.com,875-680-1515,San Jose,CA,95101,126.04,2025-11-04,Wholesale,Midwest,DIV004,Partner
+1639,Susan,Lee,SusanLeehotmail.com,877-477-5348,Houston,TX,77001,812.61,2025-12-02,Online,Pacific Northwest,DIV001,E-Commerce
+1225,James,Wilson,jameswilson@hotmail.com,404-194-6710,Dallas,TX,75201,711,2025-09-20,Wholesale,Southwest,DIV004,Direct
+1944,Elizabeth,Martin,emartin@yahoo.com,934-387-7436,Philadelphia,PA,19101,111.87,2025-09-07,Mobile App,Midwest,DIV002,E-Commerce
+1456,Paul,Roberts,proberts@hotmail.com,000-000-0000,Dallas,TX,75201,435.02,2025-08-19,Mobile App,Midwest,DIV003,Retail
+1034,Helen,Martin,helenmartin@outlook.com,818-946-9691,Denver,CO,80201,358.73,2025-08-08,Online,Northeast,DIV002,B2B
+1366,Richard,Jones,richardjones@aol.com,580-248-6151,San Antonio,TX,78201,131.08,2025-04-20,Wholesale,Mid-Atlantic,DIV001,B2B
+1814,,White,margaretwhite@gmail.com,490-716-4476,Seattle,WA,98101,531.99,2025-12-10,Online,West,DIV003,Partner
+1914,Brian,Wright,BrianWrighthotmail.com,402-301-1813,Columbus,OH,43085,804.7,2025-03-03,Distributor,Northeast,DIV003,Direct
+1175,Carol,Clark,carol.clark@outlook.com,790-121-5670,Denver,CO,80201,27.66,2025-03-09,Mobile App,Northeast,DIV004,B2B
+1412,Alice,Nelson,alicenelson@gmail.com,860-116-2137,San Francisco,CA,94101,475.19,2025-06-12,Distributor,Mid-Atlantic,DIV003,B2B
+1409,James,,jbaker@outlook.com,248-502-5889,Austin,TX,73301,699.49,2025-11-13,Distributor,Southwest,DIV001,B2B
+1229,Bob,Smith,bobsmith@gmail.com,904-841-8138,Phoenix,AZ,85001,234.08,2025-01-03,Online,Southeast,DIV003,Partner
+1888,Bob,Martin,bob.martin@gmail.com,000-000-0000,Los Angeles,CA,90001,336.04,2025-12-24,Mobile App,Pacific Northwest,DIV004,B2B
+1141,Steven,Nguyen,stevennguyen@yahoo.com,351-871-7771,Houston,TX,77001,640.53,2025-10-23,Online,West,DIV005,E-Commerce
+1501,,Clark,charles.clark@yahoo.com,470-884-5853,Indianapolis,IN,46201,714.27,2025-12-22,Wholesale,West,DIV002,E-Commerce
+1995,Donald,Brown,dbrown@gmail.com,421-579-7308,San Antonio,TX,78201,196.04,2025-09-28,Online,Midwest,DIV002,Partner
+1320,Sarah,Robinson,sarah.robinson@aol.com,716-208-3130,Charlotte,NC,,226.6,2025-09-20,Wholesale,Southwest,DIV004,Partner
+1409,Elizabeth,Jones,elizabeth.jones@outlook.com,902-414-2672,Dallas,TX,75201,155.82,2025-01-09,Online,Mid-Atlantic,DIV001,E-Commerce
+1191,Charles,Johnson,CharlesJohnsonaol.com,663-460-5351,Indianapolis,IN,46201,127.14,2025-04-19,Mobile App,Northeast,DIV003,Direct
+1514,Paul,Green,paulgreen@gmail.com,000-000-0000,Austin,TX,73301,58.64,2025-05-31,Distributor,Mid-Atlantic,DIV004,E-Commerce
+1180,Carol,Thompson,carolthompson@icloud.com,731-543-2788,San Francisco,CA,94101,684.35,2025-01-28,In-Store,Northeast,DIV002,Retail
+1589,Charles,Harris,charles.harris@icloud.com,000-000-0000,Chicago,IL,60601,397.99,2025-04-16,Online,Southeast,DIV003,Direct
+1208,Dorothy,Young,dyoung@hotmail.com,203-196-4032,Nashville,TN,37201,508.21,2025-03-29,Mobile App,Southwest,DIV003,E-Commerce
+1071,Barbara,Anderson,barbara.anderson@outlook.com,213-782-8775,Austin,TX,73301,433.64,2025-03-29,Online,Southeast,DIV003,Retail
+1873,John,Roberts,jroberts@outlook.com,201-600-5055,Jacksonville,FL,32099,477.84,2025-12-15,Online,Pacific Northwest,DIV001,Partner
+1855,Jennifer,Adams,jennifer.adams@yahoo.com,993-196-2638,SAN FRANCISCO,CA,94101,311.56,2025-10-07,Wholesale,Southwest,DIV004,B2B
+1498,Maria,Walker,mariawalker@gmail.com,508-827-6467,Charlotte,NC,28201,892.46,2025-12-18,Mobile App,Southwest,DIV001,B2B
+1655,Jane,Moore,jmoore@yahoo.com,345-465-9156,Columbus,OH,43085,40.6,2025-04-16,Mobile App,Mid-Atlantic,DIV004,B2B
+1198,Lisa,Miller,lmiller@aol.com,757-560-9632,Dallas,TX,75201,183.2,2025-08-02,Wholesale,Midwest,DIV004,Partner
+1282,Joseph,Thomas,jthomas@icloud.com,918-451-3014,Los Angeles,CA,90001,439.13,2025-02-26,Distributor,West,DIV003,B2B
+1370,David,Allen,david.allen@outlook.com,623-175-8971,Houston,TX,77001,959.63,2025-06-10,Online,Southeast,DIV004,Direct
+1845,Steven,Davis,stevendavis@outlook.com,205-540-6771,Los Angeles,CA,90001,663.65,2025-06-29,Online,Northeast,DIV003,E-Commerce
+1804,Helen,Baker,hbaker@gmail.com,477-246-4223,Phoenix,AZ,85001,437.73,2025-08-31,Online,Midwest,DIV002,Retail
+1254,Ronald,Hall,ronald.hall@outlook.com,467-409-6091,Columbus,OH,43085,181.57,2025-03-13,Distributor,Mid-Atlantic,DIV003,Partner
+1204,Maria,,maria.wilson@icloud.com,508-412-2402,Columbus,OH,43085,304.36,2025-08-12,Distributor,West,DIV002,Direct
+1204,Maria,,maria.wilson@icloud.com,508-412-2402,Columbus,OH,43085,304.36,2025-08-12,Distributor,West,DIV002,Direct
+1431,James,Wilson,JamesWilsonhotmail.com,794-624-7113,Nashville,TN,37201,136,2025-07-21,Mobile App,West,DIV003,Retail
+1686,John,Nguyen,john.nguyen@outlook.com,286-156-5426,San Francisco,CA,94101,831.6,2025-05-29,Online,Midwest,DIV005,Retail
+1707,Thomas,Brown,tbrown@aol.com,890-623-1868,Houston,TX,77001,0,2025-03-11,Mobile App,Southeast,DIV005,Direct
+1691,Ruth,Moore,ruthmoore@aol.com,936-106-8945,San Jose,CA,95101,627.43,2025-03-20,In-Store,Northeast,DIV001,Retail
+1123,George,Miller,george.miller@yahoo.com,685-125-9287,San Diego,CA,92101,449.38,2025-09-05,Online,Northeast,DIV003,Direct
+1839,Richard,Nelson,rnelson@icloud.com,649-979-3018,Dallas,TX,75201,438.03,2025-03-29,Online,Southeast,DIV002,E-Commerce
+1716,Sandra,Thomas,sandrathomas@outlook.com,496-783-2638,Indianapolis,IN,46201,959.5,2025-07-17,Distributor,Midwest,DIV003,Direct
+1109,Mark,Wright,mark.wright@yahoo.com,490-568-2968,Columbus,OH,43085,568.57,2025-11-27,Online,West,DIV003,Retail
+1672,Edward,Torres,edward.torres@hotmail.com,679-840-8509,Los Angeles,CA,90001,284.13,2025-04-18,In-Store,Midwest,DIV005,Partner
+1723,George,Hall,george.hall@gmail.com,871-255-6764,San Francisco,CA,94101,659.37,2025-05-23,Mobile App,Midwest,DIV004,E-Commerce
+1674,Joseph,Allen,josephallen@aol.com,585-583-3955,Chicago,IL,60601,580.28,2025-03-08,Mobile App,Pacific Northwest,DIV005,B2B
+1602,Steven,Lee,stevenlee@icloud.com,269-146-1483,Denver,CO,80201,853.51,2025-09-13,In-Store,Southeast,DIV001,Retail
+1487,Margaret,White,margaret.white@gmail.com,945-493-7882,San Diego,CA,92101,923.15,2025-01-20,Online,West,DIV003,Retail
+1074,Karen,Walker,karen.walker@aol.com,378-428-2763,Nashville,TN,,701.74,2025-04-13,Distributor,Southeast,DIV005,Partner
+1502,Karen,Young,kyoung@yahoo.com,365-544-9659,San Diego,CA,92101,810.59,2025-11-19,In-Store,Northeast,DIV005,Retail
+1098,David,Williams,davidwilliams@gmail.com,992-517-9955,Phoenix,AZ,85001,865.85,2025-04-08,Wholesale,Southeast,DIV005,Direct
+1584,,Green,bgreen@hotmail.com,772-973-3258,Jacksonville,FL,32099,803.58,2025-10-19,Distributor,Southwest,DIV004,Retail
+1801,George,Robinson,georgerobinson@gmail.com,436-152-9856,Houston,TX,77001,337.61,2025-07-19,In-Store,Pacific Northwest,DIV003,B2B
+1069,Barbara,Young,byoung@icloud.com,447-973-9482,Chicago,IL,60601,932.49,2025-01-30,Mobile App,Midwest,DIV004,Partner
+1913,Robert,Carter,rcarter@hotmail.com,230-133-6538,Indianapolis,IN,46201,427.19,2025-04-15,In-Store,Midwest,DIV001,E-Commerce
+1751,Thomas,Brown,thomas.brown@outlook.com,777-724-1579,San Diego,CA,92101,352.39,2025-02-11,Online,Southwest,DIV005,Partner
+1490,Linda,Thompson,linda.thompson@gmail.com,708-619-4690,Los Angeles,CA,90001,653.83,2025-01-11,Distributor,Southwest,DIV003,E-Commerce
+1026,Jason,Thomas,jasonthomas@icloud.com,898-800-1296,Seattle,WA,98101,556.97,2025-08-09,Online,Southwest,DIV004,E-Commerce
+1204,Maria,,maria.wilson@icloud.com,508-412-2402,Columbus,OH,43085,304.36,2025-08-12,Distributor,West,DIV002,Direct
+1765,Sarah,Nelson,sarah.nelson@gmail.com,937-355-1931,Denver,CO,80201,85.85,2025-01-23,In-Store,Southwest,DIV002,B2B
+1616,Brian,Harris,bharris@yahoo.com,607-590-3005,San Jose,CA,95101,660.02,2025-09-11,Online,Midwest,DIV005,E-Commerce
+1832,Dorothy,White,dorothywhite@aol.com,575-898-5795,Charlotte,NC,28201,870.28,2025-12-24,In-Store,West,DIV003,B2B
+1106,Bob,Lee,blee@aol.com,697-386-2285,Columbus,OH,43085,211.52,2025-06-06,In-Store,Pacific Northwest,DIV005,E-Commerce
+1215,Robert,Walker,robert.walker@gmail.com,915-550-8434,Phoenix,AZ,85001,953.51,2025-05-23,Online,Southwest,DIV001,B2B
+1307,James,Brown,jamesbrown@icloud.com,707-119-7268,Dallas,TX,75201,390.82,2025-04-05,Online,Southeast,DIV002,Direct
+1545,Bob,Robinson,bobrobinson@icloud.com,226-723-6508,Los Angeles,CA,90001,923.47,2025-01-15,Wholesale,Pacific Northwest,DIV005,E-Commerce
+1849,Edward,Scott,escott@aol.com,970-158-2789,Columbus,OH,43085,557.76,2025-08-06,Wholesale,Pacific Northwest,DIV005,Direct
+1581,Jason,Adams,jasonadams@yahoo.com,678-863-4903,Dallas,TX,75201,140.55,2025-05-08,Online,Midwest,DIV003,Retail
+1302,Thomas,Mitchell,tmitchell@gmail.com,480-470-5403,Fort Worth,TX,76101,662.64,2025-10-19,Mobile App,Northeast,DIV001,B2B
+1856,,Anderson,maria.anderson@outlook.com,650-109-8642,Charlotte,NC,28201,46.63,2025-07-29,Wholesale,Southwest,DIV005,E-Commerce
+1961,James,Thompson,jamesthompson@icloud.com,265-551-3945,Nashville,TN,37201,265.43,2025-04-27,Wholesale,Midwest,DIV004,E-Commerce
+1150,,Brown,ebrown@gmail.com,239-288-9302,San Diego,CA,92101,861.96,2025-04-27,Mobile App,Midwest,DIV001,Partner
+1731,Maria,,mariamartin@aol.com,753-835-1732,New York,NY,10001,604.57,2025-08-16,Wholesale,Northeast,DIV001,Partner
+1079,Richard,Jackson,richardjackson@icloud.com,897-525-2169,Austin,TX,73301,645.47,2025-11-07,Wholesale,Southeast,DIV001,B2B
+1343,Nancy,Walker,nwalker@hotmail.com,231-264-7034,Indianapolis,IN,,54.16,2025-11-08,In-Store,West,DIV001,Retail
+1320,Helen,Green,helengreen@aol.com,420-487-1534,Denver,CO,80201,660.49,2025-04-25,In-Store,Southwest,DIV001,Retail
+1588,Ruth,Baker,rbaker@icloud.com,324-967-9646,Columbus,OH,43085,800.22,2025-08-14,Mobile App,Southwest,DIV005,Partner
+1199,Donna,Young,donna.young@hotmail.com,986-470-4782,San Diego,CA,92101,461.26,2025-07-29,Online,Mid-Atlantic,DIV002,Direct
+1360,Kenneth,Green,kgreen@hotmail.com,695-719-4774,Chicago,IL,60601,0,2025-10-03,Distributor,Southeast,DIV005,E-Commerce
+1931,Nancy,Carter,nancycarter@icloud.com,493-449-6142,Phoenix,AZ,85001,126.78,2025-10-22,Distributor,Southwest,DIV005,E-Commerce
+1902,Jason,Thomas,jason.thomas@outlook.com,370-223-7858,Philadelphia,PA,19101,270.74,2025-03-06,Mobile App,Mid-Atlantic,DIV004,Retail
+1853,Paul,Johnson,paul.johnson@gmail.com,727-987-9672,Philadelphia,PA,19101,919.44,2025-12-23,Distributor,Midwest,DIV002,Direct
+1729,Susan,Davis,sdavis@hotmail.com,823-731-2765,Austin,TX,73301,994.19,2025-07-29,Online,Northeast,DIV003,Direct
+1758,Paul,Young,paul.young@aol.com,951-287-9345,Indianapolis,IN,46201,92.95,2025-12-12,Online,West,DIV005,B2B
+1388,Margaret,Torres,mtorres@icloud.com,802-386-2587,Philadelphia,PA,19101,239.94,2025-09-23,Distributor,Midwest,DIV001,Partner
+1593,helen,Scott,helenscott@hotmail.com,526-875-3923,San Jose,CA,95101,953.98,2025-09-23,Online,Pacific Northwest,DIV002,Direct
+1900,Edward,Clark,edwardclark@hotmail.com,369-221-5716,Houston,TX,77001,281.11,2025-05-13,Distributor,Southeast,DIV002,B2B
+1771,Patricia,White,patricia.white@yahoo.com,411-665-9334,Dallas,TX,75201,757.32,2025-10-03,Online,West,DIV001,Partner
+1006,Donald,Johnson,donaldjohnson@yahoo.com,784-536-8288,Jacksonville,FL,32099,525.68,2025-08-16,Distributor,Midwest,DIV001,Retail
+1505,Maria,Garcia,mgarcia@hotmail.com,884-219-6795,Phoenix,AZ,85001,805.6,2025-03-22,In-Store,Mid-Atlantic,DIV001,B2B
+1282,Mark,Green,mgreen@aol.com,522-139-8100,Chicago,IL,60601,109.43,2025-12-05,Mobile App,Midwest,DIV002,Partner
+1641,Alice,Smith,asmith@yahoo.com,585-993-4607,San Diego,CA,92101,676.61,2025-04-06,Wholesale,Southwest,DIV002,Direct
+1289,Linda,Thomas,lthomas@icloud.com,000-000-0000,Chicago,IL,60601,439.98,2025-12-30,Distributor,West,DIV005,E-Commerce
+1428,Michelle,Martin,mmartin@outlook.com,797-340-6713,Nashville,TN,37201,489.39,2025-12-09,In-Store,Midwest,DIV002,B2B
+1815,Ruth,Allen,rallen@hotmail.com,692-402-2581,Nashville,TN,37201,226.74,2025-05-07,Wholesale,Southwest,DIV004,B2B
+1118,William,Nguyen,william.nguyen@aol.com,555-813-7522,Austin,TX,73301,707.77,2025-07-30,Distributor,Pacific Northwest,DIV004,Partner
+1029,Susan,Thompson,susanthompson@yahoo.com,262-675-6295,San Francisco,CA,94101,268.99,2025-08-06,Wholesale,Southwest,DIV004,Direct
+1934,Bob,Thompson,bob.thompson@aol.com,547-751-1747,Indianapolis,IN,,315.43,2025-10-02,Distributor,Southeast,DIV005,E-Commerce
+1640,Robert,Turner,robert.turner@hotmail.com,819-652-1326,Nashville,TN,37201,950.78,2025-12-27,Online,Pacific Northwest,DIV004,Retail
+1361,Jason,Baker,jason.baker@aol.com,731-315-6932,Chicago,il,60601,540.12,2025-04-28,In-Store,Pacific Northwest,DIV005,Direct
+1165,Christopher,Lewis,clewis@yahoo.com,950-354-1223,Columbus,OH,43085,45.71,2025-09-14,Online,Pacific Northwest,DIV005,Retail
+1496,Alice,Taylor,alice.taylor@hotmail.com,435-746-5051,San Jose,CA,95101,43.44,2025-03-09,Online,Pacific Northwest,DIV004,Direct
+1897,Charles,Garcia,cgarcia@gmail.com,939-820-7805,Chicago,IL,60601,29.95,2025-10-29,Mobile App,West,DIV002,Retail
+1198,Carol,Robinson,crobinson@outlook.com,961-123-5950,Austin,TX,73301,281.31,2025-08-30,In-Store,Northeast,DIV003,Partner
+1439,James,White,jameswhite@icloud.com,694-391-9736,Columbus,OH,43085,511.53,2025-07-10,Distributor,Northeast,DIV004,Direct
+1731,Patricia,Torres,PatriciaTorresicloud.com,606-889-4802,San Diego,CA,92101,452.61,2025-06-20,Distributor,West,DIV001,B2B
+1645,James,Miller,james.miller@yahoo.com,701-707-5095,Seattle,WA,98101,93.05,2025-10-18,Distributor,West,DIV004,Partner
+1060,Jason,Flores,jasonflores@outlook.com,958-445-3467,Dallas,TX,75201,46.14,2025-05-18,Mobile App,West,DIV004,Retail
+1773,Kenneth,Flores,kennethflores@outlook.com,867-341-6272,Seattle,WA,98101,466.76,2025-02-23,Distributor,West,DIV005,Retail
+1079,Lisa,Wilson,lwilson@yahoo.com,966-224-3722,New York,NY,10001,205.39,2025-03-29,Online,Northeast,DIV004,Direct
+1537,Donald,Wilson,donaldwilson@outlook.com,209-403-2926,Seattle,WA,98101,441.12,2025-06-15,Wholesale,Mid-Atlantic,DIV003,Partner
+1380,Donna,Taylor,dtaylor@hotmail.com,901-309-7082,Phoenix,AZ,85001,524.19,2025-06-19,Wholesale,Southwest,DIV004,E-Commerce
+1737,Linda,Taylor,lindataylor@aol.com,000-000-0000,San Francisco,CA,94101,187.43,2025-12-26,Distributor,Northeast,DIV001,B2B
+1710,Patricia,Nelson,patricia.nelson@hotmail.com,262-739-8679,Charlotte,NC,28201,598.51,2025-06-26,Online,Midwest,DIV005,E-Commerce
+1950,Elizabeth,Thompson,ethompson@outlook.com,946-413-7017,San Jose,CA,95101,628.26,2025-11-25,Distributor,Midwest,DIV005,Partner
+1079,Steven,Moore,steven.moore@aol.com,486-282-5307,Houston,TX,77001,568.02,2025-11-27,In-Store,Pacific Northwest,DIV005,Partner
+1338,Donna,Carter,dcarter@hotmail.com,830-784-8756,Nashville,TN,37201,217.21,2025-02-16,Online,Pacific Northwest,DIV002,E-Commerce
+1629,Michael,Moore,michael.moore@outlook.com,531-179-1855,Philadelphia,PA,19101,145.61,2025-06-04,Distributor,Southwest,DIV004,B2B
+1120,Richard,Baker,richardbaker@outlook.com,923-585-6816,Fort Worth,TX,76101,318.64,2025-11-06,Mobile App,Midwest,DIV005,Retail
+1978,Barbara,Thompson,bthompson@outlook.com,652-601-5104,Phoenix,AZ,85001,688.51,2025-01-13,Mobile App,Southwest,DIV003,E-Commerce
+1875,Mark,Lee,mlee@yahoo.com,773-997-4129,Columbus,OH,43085,388.63,2025-08-15,In-Store,Mid-Atlantic,DIV001,E-Commerce
+1199,John,Carter,john.carter@hotmail.com,577-359-9237,San Jose,CA,95101,922.35,2025-11-25,Mobile App,Midwest,DIV001,B2B
+1044,Michelle,Martin,michelle.martin@aol.com,785-943-1498,Dallas,TX,75201,864.55,2025-03-30,Distributor,West,DIV004,Direct
+1895,Brian,Nelson,briannelson@gmail.com,229-727-3509,Houston,TX,77001,708.58,2025-08-03,In-Store,Pacific Northwest,DIV002,Retail
+1122,Bob,Torres,bob.torres@hotmail.com,757-384-4181,Los Angeles,CA,90001,658.55,2025-10-28,Online,Midwest,DIV003,E-Commerce
+1375,George,Smith,gsmith@outlook.com,885-162-2064,Fort Worth,TX,76101,201.01,2025-03-30,Mobile App,Southeast,DIV003,Retail
+1282,Carol,Thomas,carol.thomas@outlook.com,850-864-1052,San Francisco,CA,94101,318.05,2025-08-27,Mobile App,Midwest,DIV001,B2B
+1713,James,Mitchell,james.mitchell@gmail.com,292-286-2415,Charlotte,NC,,193.8,2025-01-06,Mobile App,Mid-Atlantic,DIV001,E-Commerce
+1383,mark,Garcia,mgarcia@hotmail.com,857-985-4130,San Diego,CA,92101,749.93,2025-12-28,In-Store,Midwest,DIV001,Direct
+1285,Linda,Mitchell,linda.mitchell@outlook.com,392-379-4264,Austin,TX,73301,185.34,2025-02-17,Wholesale,Midwest,DIV004,B2B
+1592,Christopher,Lee,clee@outlook.com,903-951-3793,San Francisco,CA,,46.36,2025-10-19,Mobile App,Southwest,DIV002,Partner
+1006,Donald,Johnson,donaldjohnson@yahoo.com,784-536-8288,Jacksonville,FL,32099,525.68,2025-08-16,Distributor,Midwest,DIV001,Retail
+1529,Sharon,Anderson,sharonanderson@yahoo.com,800-430-7099,Indianapolis,IN,46201,568.13,2025-11-19,Mobile App,Northeast,DIV003,Retail
+1922,John,Taylor,johntaylor@outlook.com,000-000-0000,Columbus,OH,43085,195.24,2025-10-07,Wholesale,Midwest,DIV002,Direct
+1022,Karen,Turner,kturner@icloud.com,911-545-7542,Charlotte,NC,28201,478.84,2025-06-22,In-Store,Midwest,DIV003,Partner
+1410,Joseph,Williams,joseph.williams@icloud.com,000-000-0000,San Diego,CA,92101,954.44,2025-09-20,Distributor,West,DIV001,E-Commerce
+1307,Carol,Adams,carol.adams@icloud.com,333-779-6458,San Antonio,TX,78201,790.68,2025-06-27,Online,Northeast,DIV003,E-Commerce
+1169,Mark,Smith,mark.smith@yahoo.com,508-414-2316,Phoenix,AZ,85001,192.75,2025-03-20,In-Store,Southwest,DIV001,E-Commerce
+1865,Jason,Walker,jason.walker@outlook.com,552-202-8713,New York,NY,10001,554.33,2025-12-09,Distributor,Mid-Atlantic,DIV002,Direct
+1474,Anthony,Harris,anthony.harris@outlook.com,525-881-3187,Houston,TX,77001,405.88,2025-07-21,Wholesale,Midwest,DIV004,Partner
+1355,Donald,Carter,dcarter@yahoo.com,382-886-4852,New York,NY,10001,375.44,2025-11-03,Wholesale,West,DIV001,Partner
+1936,mary,White,mary.white@outlook.com,245-316-5946,Phoenix,AZ,85001,441.05,2025-03-19,Wholesale,Southwest,DIV002,Direct
+1396,Ronald,Hill,ronaldhill@hotmail.com,383-267-7524,Los Angeles,CA,90001,685.52,2025-12-18,Online,Southwest,DIV001,B2B
+1671,Daniel,Smith,daniel.smith@hotmail.com,788-619-7291,Philadelphia,pa,19101,689.44,2025-01-28,Online,Southwest,DIV004,Direct
+1264,Kevin,Davis,kdavis@outlook.com,581-899-8758,Nashville,TN,37201,714.9,2025-08-06,Mobile App,Midwest,DIV001,E-Commerce
+1392,Ronald,Garcia,ronaldgarcia@gmail.com,924-704-5224,Phoenix,AZ,85001,205.64,2025-01-25,Mobile App,Mid-Atlantic,DIV004,Direct
+1040,Robert,Flores,robert.flores@hotmail.com,813-802-7050,CHARLOTTE,NC,28201,259.8,2025-10-05,Wholesale,Mid-Atlantic,DIV003,Retail
+1300,Dorothy,Wright,dorothywright@outlook.com,504-751-1583,New York,NY,10001,0,2025-07-22,Wholesale,Mid-Atlantic,DIV001,Partner
+1086,Sandra,Miller,sandra.miller@aol.com,848-605-8063,Phoenix,AZ,85001,893.79,2025-09-26,Wholesale,Southwest,DIV005,E-Commerce
+1040,Robert,Flores,robert.flores@hotmail.com,813-802-7050,CHARLOTTE,NC,28201,259.8,2025-10-05,Wholesale,Mid-Atlantic,DIV003,Retail
+1263,Laura,Garcia,laura.garcia@gmail.com,784-367-5967,Columbus,OH,43085,619.43,2025-07-11,Mobile App,Pacific Northwest,DIV002,Retail
+1220,sarah,Scott,sscott@aol.com,996-290-5535,Dallas,TX,75201,506.55,2025-12-14,Online,West,DIV004,E-Commerce
+1005,Nancy,Jackson,njackson@outlook.com,332-381-5375,New York,NY,10001,467.82,2025-01-10,Wholesale,Northeast,DIV002,E-Commerce
+1226,Mary,Turner,mturner@aol.com,823-946-8547,San Jose,CA,95101,592.04,2025-09-01,Mobile App,Midwest,DIV005,Direct
+1355,Donald,Carter,dcarter@yahoo.com,382-886-4852,New York,NY,10001,375.44,2025-11-03,Wholesale,West,DIV001,Partner
+1990,James,Flores,james.flores@hotmail.com,412-865-9676,Seattle,WA,98101,375.5,2025-12-12,Wholesale,Pacific Northwest,DIV003,Direct
+1159,Edward,Carter,edwardcarter@icloud.com,778-541-7805,Philadelphia,PA,19101,995.87,2025-09-09,Online,Pacific Northwest,DIV003,Partner
+1384,Sandra,Wilson,sandra.wilson@icloud.com,299-505-4576,Fort Worth,TX,76101,219.19,2025-03-23,Online,West,DIV003,E-Commerce
+1752,Daniel,Baker,daniel.baker@hotmail.com,628-713-5569,Columbus,OH,43085,326.21,2025-09-15,Wholesale,Mid-Atlantic,DIV001,B2B
+1401,Jennifer,Allen,jenniferallen@outlook.com,000-000-0000,Indianapolis,IN,46201,406.05,2025-12-02,Online,West,DIV003,Direct
+1929,Patricia,Hall,patriciahall@aol.com,628-520-4094,Denver,CO,80201,640.05,2025-11-14,Mobile App,Southeast,DIV002,Partner
+1082,Carol,Mitchell,carolmitchell@gmail.com,824-355-3727,Columbus,OH,43085,573.61,2025-01-12,Distributor,Mid-Atlantic,DIV001,B2B
+1904,Brian,Hall,BrianHallicloud.com,365-568-7046,Seattle,WA,98101,725.83,2025-06-15,In-Store,Southeast,DIV004,E-Commerce
+1066,Jane,Jackson,janejackson@outlook.com,450-800-8268,Denver,CO,80201,989.82,2025-11-06,In-Store,Southwest,DIV005,Retail
+1893,,Harris,barbara.harris@aol.com,207-866-1529,Charlotte,NC,28201,685.2,2025-07-17,Distributor,Pacific Northwest,DIV005,Direct
+1427,Maria,Nelson,mnelson@aol.com,862-646-1388,Houston,TX,77001,444.14,2025-07-06,Online,Midwest,DIV004,Retail
+1949,Helen,Torres,helen.torres@gmail.com,349-967-5300,Columbus,OH,43085,760.36,2025-07-07,Mobile App,Pacific Northwest,DIV001,E-Commerce
+1347,Michael,Harris,michaelharris@yahoo.com,299-437-2213,Indianapolis,in,46201,463.66,2025-06-25,Distributor,Pacific Northwest,DIV002,B2B
+1455,Thomas,Torres,thomastorres@icloud.com,808-136-3294,Dallas,TX,75201,156.54,2025-10-16,Wholesale,Northeast,DIV002,B2B
+1298,Joseph,Taylor,josephtaylor@aol.com,686-830-8206,Denver,co,80201,676.55,2025-11-08,In-Store,Mid-Atlantic,DIV002,E-Commerce
+1393,Maria,White,mwhite@yahoo.com,510-251-1197,New York,NY,10001,266.83,2025-09-02,Mobile App,Mid-Atlantic,DIV005,Direct
+1174,Dorothy,Moore,dorothymoore@icloud.com,000-000-0000,Denver,CO,80201,866.75,2025-09-04,Distributor,Mid-Atlantic,DIV002,Partner
+1918,Lisa,Smith,lisa.smith@hotmail.com,516-311-4675,Chicago,IL,60601,158.59,2025-07-02,Mobile App,Pacific Northwest,DIV001,E-Commerce
+1583,Ruth,Smith,rsmith@yahoo.com,407-472-1538,San Francisco,CA,94101,404.51,2025-05-19,Online,Midwest,DIV005,Retail
+1547,Kevin,Nelson,kevinnelson@gmail.com,780-635-5062,Chicago,IL,60601,252.25,2025-12-20,In-Store,Mid-Atlantic,DIV002,E-Commerce
+1181,Alice,Roberts,aliceroberts@icloud.com,293-860-4113,Dallas,TX,,736,2025-02-01,Online,Southeast,DIV005,B2B
+1249,Steven,,steven.carter@outlook.com,749-900-1836,Indianapolis,IN,46201,325.67,2025-08-15,Online,Southeast,DIV004,Retail
+1202,Patricia,Nelson,pnelson@yahoo.com,698-407-1157,Denver,CO,80201,585.9,2025-10-29,Online,Mid-Atlantic,DIV004,E-Commerce
+1629,Sarah,Nguyen,sarahnguyen@hotmail.com,815-377-9070,New York,NY,10001,634.82,2025-05-26,Wholesale,West,DIV004,Partner
+1306,Maria,Nelson,marianelson@hotmail.com,894-674-9242,San Diego,CA,92101,315.72,2025-01-04,Distributor,Northeast,DIV002,Direct
+1997,Helen,Hill,helen.hill@yahoo.com,267-878-8078,Indianapolis,IN,46201,676.25,2025-11-23,Online,Pacific Northwest,DIV004,B2B
+1842,William,Thomas,william.thomas@yahoo.com,514-613-6003,Houston,TX,,326.82,2025-11-09,Mobile App,Southwest,DIV001,B2B
+1688,Michael,Clark,michaelclark@yahoo.com,375-972-3587,Philadelphia,PA,19101,614.02,2025-12-01,In-Store,Midwest,DIV005,Direct
+1426,Jason,Thompson,jasonthompson@hotmail.com,510-479-3375,San Diego,CA,92101,313.17,2025-06-07,Wholesale,Pacific Northwest,DIV003,Direct
+1402,Sarah,Wright,sarah.wright@outlook.com,618-462-3292,New York,NY,10001,975.24,2025-12-05,Wholesale,Northeast,DIV002,E-Commerce
+1301,,Johnson,christopherjohnson@outlook.com,533-671-4267,Austin,TX,73301,799.5,2025-02-24,Mobile App,West,DIV004,B2B
+1164,Margaret,Hill,margaret.hill@outlook.com,999-775-7390,Denver,CO,80201,690.92,2025-10-28,Distributor,Southeast,DIV003,Partner
+1103,Bob,Lewis,boblewis@icloud.com,648-391-2819,Dallas,TX,75201,477.12,2025-03-19,Online,Midwest,DIV004,E-Commerce
+1103,Bob,Lewis,boblewis@icloud.com,648-391-2819,Dallas,TX,75201,477.12,2025-03-19,Online,Midwest,DIV004,E-Commerce
+1788,Mary,Clark,mclark@outlook.com,419-288-6263,Jacksonville,FL,32099,473.64,2025-12-13,Distributor,Midwest,DIV003,E-Commerce
+1265,Maria,Roberts,maria.roberts@yahoo.com,857-520-8001,New York,NY,10001,402.34,2025-01-31,Distributor,Pacific Northwest,DIV001,Partner
+1524,,Johnson,christopher.johnson@outlook.com,716-994-6358,Denver,CO,80201,792.24,2025-11-21,Distributor,Midwest,DIV005,B2B
+1077,Donna,Garcia,dgarcia@gmail.com,362-917-9413,Seattle,WA,98101,847.84,2025-11-29,Online,West,DIV004,Partner
+1769,Mary,Scott,maryscott@outlook.com,956-255-6413,Dallas,TX,75201,82.3,2025-12-21,Mobile App,Midwest,DIV004,Partner
+1971,Paul,Johnson,pauljohnson@icloud.com,206-738-7388,Fort Worth,TX,76101,28.68,2025-05-13,In-Store,Midwest,DIV004,E-Commerce
+1598,Ronald,Clark,rclark@outlook.com,881-305-6810,Seattle,wa,98101,894.31,2025-04-16,Mobile App,Southeast,DIV002,E-Commerce
+1103,Jane,Nelson,jane.nelson@gmail.com,000-000-0000,Nashville,TN,37201,334.19,2025-06-05,Wholesale,Southeast,DIV002,E-Commerce
+1277,Jennifer,Jackson,jennifer.jackson@gmail.com,650-226-7145,Jacksonville,FL,32099,35.17,2025-08-13,In-Store,Southwest,DIV001,Direct
+1210,Jason,Hall,jason.hall@gmail.com,379-618-9462,Denver,CO,80201,130.49,2025-07-03,In-Store,Northeast,DIV004,Partner
+1324,Nancy,Thomas,nthomas@gmail.com,568-589-5182,San Antonio,TX,78201,513.65,2025-08-04,Distributor,Northeast,DIV001,Direct
+1878,Patricia,Lee,patricia.lee@hotmail.com,644-968-5926,Jacksonville,FL,32099,237.07,2025-01-09,Online,Mid-Atlantic,DIV004,Direct
+1281,Laura,Clark,laura.clark@yahoo.com,381-678-1151,Los Angeles,CA,90001,136.67,2025-02-01,In-Store,Southeast,DIV004,Retail
+1214,Kevin,Young,kevinyoung@icloud.com,361-529-3824,Jacksonville,FL,32099,182.89,2025-02-26,Mobile App,Southeast,DIV002,B2B
+1030,Donald,Jackson,djackson@outlook.com,582-961-5344,San Jose,CA,95101,625.69,2025-01-15,Online,Pacific Northwest,DIV001,B2B
+1035,Kevin,Moore,kmoore@gmail.com,586-880-9604,Columbus,OH,43085,178.04,2025-02-17,Online,Northeast,DIV003,E-Commerce
+1067,Robert,Hill,rhill@outlook.com,650-237-1011,Charlotte,NC,28201,318.32,2025-12-03,Distributor,Midwest,DIV002,B2B
+1979,Edward,,emiller@outlook.com,784-300-3061,Indianapolis,IN,46201,227.12,2025-12-04,In-Store,Pacific Northwest,DIV002,E-Commerce
+1097,Anthony,Allen,anthony.allen@icloud.com,455-331-5106,San Jose,CA,95101,192.78,2025-09-24,Wholesale,Midwest,DIV004,Partner
+1210,Jason,Hall,jason.hall@gmail.com,379-618-9462,Denver,CO,80201,130.49,2025-07-03,In-Store,Northeast,DIV004,Partner
+1034,Richard,Taylor,richard.taylor@hotmail.com,785-592-8927,Fort Worth,TX,76101,859.1,2025-08-20,In-Store,Mid-Atlantic,DIV005,Direct
+1464,Edward,Martin,edward.martin@outlook.com,962-386-9429,Seattle,WA,98101,924.65,2025-09-07,Wholesale,Southeast,DIV003,B2B
+1467,Sharon,Miller,sharonmiller@icloud.com,264-900-6987,Austin,TX,73301,432.25,2025-04-27,Online,West,DIV002,Retail
+1849,Robert,Davis,robertdavis@aol.com,329-994-6695,Seattle,WA,98101,313.96,2025-04-04,Distributor,West,DIV001,Partner
+1963,Helen,Thomas,helen.thomas@aol.com,994-117-4255,Phoenix,AZ,85001,736.08,2025-10-16,Wholesale,West,DIV005,E-Commerce
+1537,Bob,Nelson,bob.nelson@icloud.com,910-643-3732,Jacksonville,FL,32099,380.73,2025-04-26,Online,Mid-Atlantic,DIV002,Partner
